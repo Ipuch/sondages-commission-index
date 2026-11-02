@@ -1,0 +1,1112 @@
+# notice commission des sondages
+# source_pdf: archives/2026/octobre/10341-pres-niche-parlementaire-lfi-thi-28-octobre.pdf
+# extraction: pdfplumber (layout=True)
+
+--- page 1 ---
+
+Questions        d’actualité       dans     le  cadre     de   la  niche     parlementaire
+
+     2026
+
+     Etude  réalisée pour La  France  Insoumise
+
+     Octobre   2026
+
+     Notice technique à la Commission des sondages
+
+     Département Politique & Opinion
+
+--- page 2 ---
+
+Méthodologie                     d’enquête
+
+                                                                                                                                 2
+
+--- page 3 ---
+
+Méthodologie        d’enquête
+
+                      Terrain                               Echantillon                                Quotas
+
+        Enquête réalisée en ligne du 16 au 19    Échantillon de 1 067 personnes          Méthode  des quotas et redressement
+
+        octobre 2026.                            représentatif de la population          appliqués aux variables suivantes :
+                                                 française âgée de 18 ans et plus.       sexe, âge, catégorie
+                                                                                         socioprofessionnelle et région de
+
+                                                                                         l’interviewé(e).
+
+                     Aide à la lecture des résultats détaillés :
+                      Les chiffres présentés sont exprimés en pourcentage.
+                      Les chiffres en italique sont ceux qui apparaissent significativement au-dessus de la moyenne.
+
+                                                                                                                                 3
+
+--- page 4 ---
+
+Méthodologie          d’enquête
+
+    Les répondants à cette étude sont issus du panel propriétaire Toluna-Harris Interactive.
+
+    Les panélistes Toluna ayant complété le questionnaire obtiennent des points cumulables pour une valeur inférieure à 1 euro.
+
+                                                                                                                                 4
+
+--- page 5 ---
+
+Intervalle    de   confiance
+
+     L’intervalle de confiance (parfois appelé «marge d’erreur »)permet de déterminer la confiance qui peut être attribuée à une valeur,en prenant en compte la valeur observée et la
+     taille de l’échantillon. Si le calcul de l’intervalle de confiance concerne les sondages réalisés avec la méthode aléatoire, il est communément admis qu’il est proche pour les
+     sondages réalisésaveclaméthodedesquotas.
+
+      Taille de l’échantillon   5% ou 95%        10% ou 90%      20% ou 80%       30% ou 70%      40% ou 60%         50%
+      100 interviews               4,4              6,0             8,0              9,2             9,8              10
+
+      200 interviews               3,1              4,3             5,7              6,5             6,9              7,1
+
+      300 interviews               2,5              3,5             4,6              5,3             5,7              5,8
+
+      400 interviews               2,2              3,0             4,0              4,6             4,9              5,0
+
+      500 interviews               2,0              2,7             3,6              4,1             4,4              4,5
+
+      600 interviews               1,8              2,4             3,3              3,8             4,0              4,1
+
+      800 interviews               1,5              2,1             2,8              3,2             3,4              3,5
+
+      1 000 interviews             1,4              1,8             2,5              2,9             3,0              3,1
+
+      2 000 interviews             1,0              1,3             1,8              2,1             2,2              2,3
+
+      3 000 interviews             0,8              1,1             1,5              1,7             1,8              1,8
+      4 000 interviews             0,7              0,9             1,3              1,5             1,6              1,6
+
+      6 000 interviews             0,6              0,8             1,1              1,3             1,4              1,4
+
+     Note de lecture : dans le cas d’un échantillon de 1 000 personnes, si le pourcentage mesuré est de 10%, la marge d’erreur est égale à 1,8. Il y a donc 95% de chance
+     quelepourcentageréelsoitcomprisentre8,2%et11,8%(plusou moins 1,8 point).
+
+                                                                                                                                 5
+
+--- page 6 ---
+
+Données       socio-démographiques
+
+                                               SEXE                        Brut          Redressé
+
+                                                           Un homme         50              48
+
+                                                          Une femme         50              52
+                                               ÂGE
+
+                                                            18 - 24 ans     10              10
+                                                            25 - 34 ans     13              15
+
+                                                            35 - 49 ans     26              24
+                                                            50 - 64 ans     23              25
+
+                                                          65 ans et plus    28              26
+
+                                         PCS DE L’INTERVIEWÉ(E)
+
+                                                                PCS+        29              29
+                                                                PCS-        28              29
+
+                                                              Inactifs      43              42
+                                              REGION
+
+                                                      Région Parisienne     18              19
+
+                                                              Nord-Est      24              22
+                                                           Nord-Ouest       23              23
+
+                                                               Sud-Est      24              25
+                                                            Sud-Ouest       11              11
+
+                                                                                                                                 6
+
+--- page 7 ---
+
+Questionnaire
+
+                                                                                                                                 7
+
+--- page 8 ---
+
+Questionnaire
+
+     L’ensemble des questions posées dans cette enquête ont été présentées dans un ordre aléatoire pour chaque répondant
+
+     A tous
+     Êtes-vous favorable ou opposé(e)à chacune des mesures suivantes ?
+     Présentation des items en ordre aléatoire
+
+     1. La prise en charge à 100 % par l’Assurance maladie des soins liésaux violences sexuelles, sans avance de frais par les victimes
+     2. La prise en charge par l’Assurance maladie d’un parcours de soins spécialisé en psychotraumatisme pour l’ensemble des victimes de violences sexuelles,
+        majeures comme mineures, quelle que soit la date de commission des faits
+     3. Le renforcement de la formation obligatoire des professionnels de santé et du médico-social pour mieux repérer et accompagner les victimes
+
+     4. La mise en place à l’école d’un entretien individuel annuel visant à mieux prévenir et repérer d’éventuellessituations de violencechez les enfants
+
+     1. Tout à fait favorable
+     2. Plutôt favorable
+     3. Plutôt opposé(e)
+     4. Tout à fait opposé(e)
+
+     A tous
+     Aujourd’hui, certains jeux vidéo achetés en ligne peuvent devenir inaccessibles lorsque leur éditeur arrête leur exploitation ou ferme les services
+
+     nécessaires à leur fonctionnement. Êtes-vous favorable ou opposé(e)à chacune des mesures suivantes ?
+     Présentation des items en ordre aléatoire
+
+     1. Garantir qu’une personne ayant acheté un jeu vidéo en ligne puisse continuer à y accéder, même si son éditeur arrête son exploitation commerciale
+     2. Permettre à la Bibliothèque nationale de France de conserver et remettre à disposition certains jeux vidéo devenus indisponibles
+
+     1. Tout à fait favorable
+     2. Plutôt favorable
+     3. Plutôt opposé(e)
+
+     4. Tout à fait opposé(e)
+
+                                                                                                                                 8
+
+--- page 9 ---
+
+Questionnaire
+
+     L’ensemble des questions posées dans cette enquête ont été présentées dans un ordre aléatoire pour chaque répondant
+
+     A tous
+     Êtes-vous favorable ou opposé(e)à chacune des mesures suivantes ?
+     Présentation des items en ordre aléatoire
+
+     1. Augmenter le montant du SMIC à 1 700 euros nets par mois
+     2. Indexer automatiquement les salaires du secteur privé sur l’inflation
+     3. Porter l’allocation de solidarité aux personnes âgées (minimum vieillesse) au niveau du seuil de pauvreté (soit 1 337 euros par mois pour une personne
+        seule et 2 005 euros pour un couple)
+
+     4. Faire contribuer davantage les très grandes entreprises pour aider les petites et moyennes entreprises à financer les hausses de salaires
+
+     1. Tout à fait favorable
+     2. Plutôt favorable
+     3. Plutôt opposé(e)
+     4. Tout à fait opposé(e)
+
+     A tous
+     Le Canal Seine-Nord Europe est un projet de grand canal fluvial d’une longueur de 107 km à travers les départements de l’Oise, de la Somme et du Nord,
+
+     destiné à relier le bassin de la Seine au réseau fluvial du nord de l’Europe. Les parties prenantes du projet mettent en avant ses apports en matière
+     d’économie, de maîtrise de l'eau et d'écologie tandis que celui-ci est contesté par divers acteurs pour son coût, les risques pour l’écosystème local et la
+     préexistence d’un autre canal.
+     Êtes-vous favorable ou opposé(e) à l’instauration d’un moratoire de dix années sur la réalisation du Canal Seine-Nord Europe et de ses aménagements
+     associés, c’est-à-dire la suspension de ce projet durant 10 ans ?
+
+     1. Tout à fait favorable
+     2. Plutôt favorable
+     3. Plutôt opposé(e)
+
+     4. Tout à fait opposé(e)
+
+                                                                                                                                 9
+
+--- page 10 ---
+
+Questionnaire
+
+     L’ensemble des questions posées dans cette enquête ont été présentées dans un ordre aléatoire pour chaque répondant
+
+     A tous
+     Les AESH sont les accompagnantsd’élèves en situation de handicap. Êtes-vous favorable ou opposé(e) àchacune des mesures suivantes ?
+     Présentation des items en ordre aléatoire
+
+     1. Créer un corps de fonctionnaires de catégorie B pour les AESH
+     2. Titulariser (c’est-à-dire les faire devenir fonctionnaires) les AESH déjà en poste dans les établissements scolaires
+
+     1. Tout à fait favorable
+
+     2. Plutôt favorable
+     3. Plutôt opposé(e)
+     4. Tout à fait opposé(e)
+
+     A tous
+     En 2026, l’usage de deux pesticides, l’acétamipride et le flupyradifurone, a de nouveau été autorisé pour certaines cultures agricoles (noisettes, cerises,
+     pommes, betterave à sucre). Seriez-vous favorable ou opposé(e)à ce que l’acétamiprideet le flupyradifurone soient de nouveau interdits ?
+
+     1. Tout à fait favorable
+
+     2. Plutôt favorable
+     3. Plutôt opposé(e)
+     4. Tout à fait opposé(e)
+
+                                                                                                                                 10
+
+--- page 11 ---
+
+Questionnaire
+
+     L’ensemble des questions posées dans cette enquête ont été présentées dans un ordre aléatoire pour chaque répondant
+
+     A tous
+     Aujourd’hui, une personne peut être radiée des listes électorales d’une commune si elle est considérée comme n’ayant plus d’attache suffisante avec cette
+     commune  (une personne faisant ses études dans une autre ville, une personne ayant déménagé sans avoir fait les démarches pour changer son inscription
+     électorale…).Êtes-vous favorable ou opposé(e)à chacune des mesures suivantes ?
+     Présentation des items en ordre aléatoire
+
+     1. Ne pas radier des personnes des listes électorales pour perte d’attache communale dans les six semaines précédant une élection
+     2. Permettre à une personne radiée de demander sa réinscription jusqu’à dix jours avant le scrutin
+     3. Mettre en place la mise à jour automatique de l’inscription des citoyens sur les listes électorales à tout âge de la vie (par exemple quand une personne
+
+        déménage pour son travail ou ses études)
+
+     1. Tout à fait favorable
+     2. Plutôt favorable
+     3. Plutôt opposé(e)
+     4. Tout à fait opposé(e)
+
+     A tous
+     L’aide sociale à l’enfance (ASE) accompagne les enfants et jeunes en difficulté. La protection judiciaire de la jeunesse (PJJ) suit notamment des jeunes
+     faisant l’objet de mesures judiciaires. Actuellement, ces deux dispositifs suivent les jeunes jusqu’à leurs 21 ans. Êtes-vous favorable ou opposé(e) à chacune
+
+     des mesures suivantes ?
+     Présentation des items en ordre aléatoire
+
+     1. Permettre l’accompagnement des jeunes majeurs protégés jusqu’à 25 ans quel que soit leur parcours de vie (qu’ils soient issus de l’aide sociale à
+        l’enfance, de la protection judiciaire de la jeunesse, ou que leur vulnérabilité sur le plan familial soit repérée post majorité)
+     2. Permettre l’accompagnement des jeunes suivis par la protection judiciaire de la jeunesse jusqu’à leurs25 ans
+     3. Créer un fonds financé par l’État pour aider les départements à financer l’accompagnement des jeunes majeurs
+
+     1. Tout à fait favorable
+
+     2. Plutôt favorable
+     3. Plutôt opposé(e)
+     4. Tout à fait opposé(e)                                                                                                    11
+
+--- page 12 ---
+
+Questionnaire
+
+     L’ensemble des questions posées dans cette enquête ont été présentées dans un ordre aléatoire pour chaque répondant
+
+     (toujours l’une après l’autre concernant ce bloc thématique)
+
+     A tous
+     Êtes-vous favorable ou opposé(e) au renforcement du contrôle de l’Etat sur les investissements étrangers dans les entreprises jugées stratégiques pour la
+     France ?
+
+     1. Tout à fait favorable
+     2. Plutôt favorable
+     3. Plutôt opposé(e)
+
+     4. Tout à fait opposé(e)
+
+     A tous
+     Et plus précisément seriez-vous favorable ou opposé(e) au renforcement du contrôle des investissements étrangers par l’Etat dans chacun des domaines
+     suivants ? Les entreprises de…
+     Présentation des items en ordre aléatoire
+
+     1. La défense
+     2. La santé
+
+     3. L’agroalimentaire
+     4. L’agriculture
+     5. L’énergie
+     6. L’eau
+     7. Les transports
+     8. Les télécommunications
+
+     1. Tout à fait favorable
+     2. Plutôt favorable
+
+     3. Plutôt opposé(e)
+     4. Tout à fait opposé(e)
+                                                                                                                                 12
+
+--- page 13 ---
+
+Questionnaire
+
+     L’ensemble des questions posées dans cette enquête ont été présentées dans un ordre aléatoire pour chaque répondant
+
+     A tous
+     Aujourd’hui, certains délits peuvent être sanctionnés par une amende forfaitaire délictuelle, c’est-à-dire une amende décidée directement par les membres
+     des forces de l’ordre (policier, gendarme) sans procès immédiat devant un juge. Seriez-vous favorable ou opposé(e) à l’abrogation (c’est-à-dire la
+     suppression) du dispositif des amendes forfaitaires délictuelles, c’est à-dire que l’ensemble des délits seraient concernés par une procédure pénale
+     standard (en passant devant un Tribunal correctionnel) ?
+
+     1. Tout à fait favorable
+     2. Plutôt favorable
+
+     3. Plutôt opposé(e)
+     4. Tout à fait opposé(e)
+
+     A tous
+     Aujourd’hui, les pensions alimentaires versées au parent qui a la garde des enfants sont assujetties à l’impôt sur le revenu, tandis que le versement de cette
+     pension alimentaire par le parent « non-gardien »  bénéficie de la possibilité de déduire ce montant de  l’impôt sur le revenu.
+     Seriez-vous favorable ou opposé(e)à chacune des mesures suivantes ? [Rappel novembre 2025]
+     Présentation des items en ordre aléatoire
+
+     1. Exonérer les pensions alimentaires reçues de l’impôt sur le revenu en supprimant en contrepartie la déduction fiscale pour le parent qui verse la pension
+        alimentaire
+     2. La révision annuelle automatique des pensions alimentaires selon l’indice des prix à la consommation publiépar l’INSEE
+     3. L’augmentation de l’allocation de soutien familial (ASF), qui vise à aider à l’éducation d’enfants privés du soutien d’au moins un des parents en leur
+        garantissant une contribution minimale d’entretien délivrée par la CAF (Caisse d’Allocations Familiales)
+
+     1. Tout à fait favorable
+     2. Plutôt favorable
+     3. Plutôt opposé(e)
+
+     4. Tout à fait opposé(e)
+
+                                                                                                                                 13
+
+--- page 14 ---
+
+Résultats                     de
+
+                                                                                                 l’enquête
+
+--- page 15 ---
+
+Près de 9 Français sur 10 se déclarent favorables aux différentes mesures testées concernant la prise en charge
+     des victimes de violences sexistes et sexuelles, avec près d’1 sur 2 y étant tout à fait favorable
+
+   79% des  Français sont favorables  à toutes les mesures
+                                                                                                             Favorable   Opposé(e)
+
+      Le renforcement de la formation obligatoire
+       des professionnels de santé et du médico-
+                                                       50                            43              4 21       93           6
+      social pour mieux repérer et accompagner les
+                   victimes
+
+       La prise en charge à 100 % par l’Assurance
+      maladie des soins liés aux violences sexuelles,   53                           36            7   31       89           10
+         sans avance de frais par les victimes
+
+       La prise en charge par l’Assurance maladie
+          d’un parcours de soins spécialisé en
+        psychotraumatisme pour l’ensemble des
+                                                      49                            40             7   31       89           10
+        victimes de violences sexuelles, majeures
+       comme mineures, quelle que soit la date de
+               commission des faits
+        La mise en place à l’école d’un entretien
+        individuel annuel visant à mieux prévenir et
+                                                     45                           43               7  3 2       88           10
+        repérer d’éventuelles situations de violence
+                 chez les enfants
+
+             Tout à fait favorable    Plutôt favorable    Plutôt opposé(e)      Tout à fait opposé(e)    Ne se prononce pas
+
+     Etes-vousfavorableouopposé(e)àchacunedesmesuressuivantes?
+     Base:Atous,en%
+
+                                                                                                                                 15
+
+--- page 16 ---
+
+La perception  de différentes mesures concernant la prise en charge par la Sécurité sociale des victimes de
+     violences sexistes et sexuelles, selon la proximité politique
+
+                                                                          Proximité politique
+
+                                                                                                                       Sans
+                                      La France                                              Les     Rassemblement
+                                                 Les Ecologistes Parti socialiste Renaissance                        préférence
+                         Ensemble
+                                      Insoumise                                          Républicains   National
+                                                                                                                     partisane
+        Le renforcement de la
+      formation obligatoire des
+    professionnels de santé et du
+                             93          95           99           97           95           91           94            94
+      médico-social pour mieux
+    repérer et accompagner les
+                  victimes
+     La prise en charge à 100 %
+    par l’Assurance maladie des
+        soins liés aux violences 89      95           91           93           92           85           90            89
+   sexuelles, sans avance de frais
+             par les victimes
+        La prise en charge par
+      l’Assurance maladie d’un
+     parcours de soins spécialisé
+    en psychotraumatisme pour
+     l’ensemble des victimes de 89       93           95           98           87           93           89            92
+    violences sexuelles, majeures
+    comme mineures, quelle que
+      soit la date de commission
+                  des faits
+     La mise en place à l’école
+       d’un entretien individuel
+   annuel visant à mieux prévenir
+                             88          93           95           95           85           85           86            92
+       et repérer d’éventuelles
+   situEatteiosn-vs odues vfiaolveonrcaeb cleheozu leos pposé(e)àchacunedesmesuressuivantes?
+     Base:Atous,en%endfean«tFsavorable»
+                                                                                                                                 16
+
+--- page 17 ---
+
+La  quasi-totalité des personnes interrogées est favorable au renforcement  du  contrôle des investissements
+     étrangers dans les entreprises françaises jugées stratégiques, et ce de façon homogène parmi les sympathisants
+     des différentes formations politiques
+
+  Favorable  au  contrôle des  investissements  étrangers dans  les
+                                                                             En % de Favorable /Opposé(e)
+  entreprises françaises stratégiques  : 88%
+
+                                                                            La France Insoumise           91                9
+
+                               46
+                                                                                Les Ecologistes          80              15 5
+
+                                                                                 Parti socialiste         91               7  2
+
+                     2                                                            Renaissance             86              7 7
+                     3
+
+                       7
+                                                                               Les Républicains          85               11 4
+                                       42
+
+                                                                         Rassemblement National          85               13  2
+                                                Tout à fait favorable
+    Opposé(e)   : 10%
+                                                Plutôt favorable
+                                                Plutôt opposé(e)
+                                                                        Sans préférence partisane         89               10 1
+                                                Tout à fait opposé(e)
+                                                Ne se prononce pas
+     Êtes-vousfavorableouopposé(e)aurenforcementducontrôledel’EtatsurlesinvestissementsétrangersdanslesentreprisesjugéesstratégiquespourlaFrance?
+     Base:Atous,en%
+                                                                                                                                 17
+
+--- page 18 ---
+
+Les Français se montrent  très favorable dans l’ensemble au renforcement  du  contrôle des investissements
+     étrangers dans l’ensemble des domaines  testés, et plus encore dans les secteurs de la défense, la santé, l’eau
+
+     et l’énergie
+
+     Contrôler les investissements étrangers dans les entreprises du domaine de…
+
+                                …la défense            50                                 88
+
+                                  …la santé            49                                  89
+
+                                    …l’eau            48                                   89
+
+                                 …l’énergie           47                                    90
+
+                               …l’agriculture        44                                    89
+
+                           …l’agroalimentaire        42                                   88
+
+                               …les transports      39                                    87
+
+                       …les télécommunications      39                                    87
+
+                                                                                                            En % de Tout à fait favorable /
+
+                                                                                                            Favorable
+
+     Et plus précisément seriez-vous favorable ou opposé(e) au renforcement du contrôle des investissements étrangers par l’Etat dans chacun des domaines suivants ?
+     Lesentreprisesde…
+     Base:Atous,en%
+
+                                                                                                                                 18
+
+--- page 19 ---
+
+La perception de  différentes mesures concernant le renforcement du contrôle des investissements étrangers,
+     selon la proximité politique
+
+     Contrôler les investissements étrangers dans les entreprises du domaine de…
+
+                                                                            Proximité politique
+
+                                                                                                                         Sans
+                                         La France                                             Les      Rassemblement
+                                                    Les Ecologistes Parti socialiste Renaissance                       préférence
+                            Ensemble
+                                         Insoumise                                         Républicains   National
+                                                                                                                       partisane
+                …la défense    50          45           40           59           56           52            51           53
+                  …la santé    49          66           49           53           53           51            49           49
+                    …l’eau     48          56           56           53           40           52            46           49
+
+                 …l’énergie    47          50           42           54           47           51            46           48
+
+               …l’agriculture  44          54           36           53           41           45            42           44
+
+           …l’agroalimentaire  42          48           51           47           31           43            42           44
+
+               …les transports 39          46           39           38           45           38            38           41
+
+       …les télécommunications 39          41           46           41           41           37            36           43
+
+     Et plus précisément seriez-vous favorable ou opposé(e) au renforcement du contrôle des investissements étrangers par l’Etat dans chacun des domaines suivants ?
+     Lesentreprisesde…
+     Base:Atous,en%de«Tout à faitfavorable »
+
+                                                                                                                                 19
+
+--- page 20 ---
+
+Plus de 3 Français sur 4 indiquent être en faveur de ces mesures visant à garantir que les joueurs puissent avoir
+     un accès pérenne  aux jeux vidéo qu’ils ont achetés
+
+                                                                                                             Favorable   Opposé(e)
+
+      Garantir qu’une personne ayant acheté un
+        jeu vidéo en ligne puisse continuer à y
+                                                  36                         47                 10   5  2       83           15
+       accéder, même si son éditeur arrête son
+             exploitation commerciale
+
+        Permettre à la Bibliothèque nationale de
+
+          France de conserver et remettre à
+                                                 31                       47                  14     6  2       78           20
+         disposition certains jeux vidéo devenus
+                  indisponibles
+
+             Tout à fait favorable    Plutôt favorable    Plutôt opposé(e)      Tout à fait opposé(e)    Ne se prononce pas
+     Aujourd’hui, certains jeux vidéo achetés en ligne peuvent devenir inaccessibles lorsque leur éditeur arrête leur exploitation ou ferme les services nécessaires à leur
+     fonctionnement. Êtes-vousfavorableou opposé(e)àchacunedesmesuressuivantes?
+     Base:Atous,en%
+
+                                                                                                                                 20
+
+--- page 21 ---
+
+La perception  de différentes mesures concernant les droits des joueurs et joueuses à la pérennité des jeux
+     vidéo, selon la proximité politique
+
+                                                                            Proximité politique
+
+                                                                                                                         Sans
+                                         La France                                             Les      Rassemblement
+                                                    Les Ecologistes Parti socialiste Renaissance                       préférence
+                            Ensemble
+                                         Insoumise                                         Républicains   National
+                                                                                                                       partisane
+       Garantir qu’une personne
+     ayant acheté un jeu vidéo en
+        ligne puisse continuer à y
+                               83          90           84           85           85           81            80           83
+     accéder, même si son éditeur
+          arrête son exploitation
+                commerciale
+      Permettre à la Bibliothèque
+         nationale de France de
+         conserver et remettre à 78        90           82           83           85           70            75           76
+     disposition certains jeux vidéo
+          devenus indisponibles
+
+     Aujourd’hui, certains jeux vidéo achetés en ligne peuvent devenir inaccessibles lorsque leur éditeur arrête leur exploitation ou ferme les services nécessaires à leur
+     fonctionnement. Êtes-vousfavorableou opposé(e)àchacunedesmesuressuivantes?
+     Base:Atous,en%de«Favorable»
+
+                                                                                                                                 21
+
+--- page 22 ---
+
+Les mesures économiques  testées recueillent le soutien de 7 à 8 Français sur 10, en particulier celle visant à faire
+     contribuer davantage  les très grandes entreprises pour aider les PME et les TPE à financer des hausses de
+     salaires
+
+   58% des  Français sont favorables  à toutes les mesures
+                                                                                                             Favorable   Opposé(e)
+
+      Faire contribuer davantage les très grandes
+         entreprises pour aider les petites et
+                                                   40                          45                10   4 1       85           14
+      moyennes entreprises à financer les hausses
+                  de salaires
+
+         Porter l’allocation de solidarité aux
+       personnes âgées (minimum vieillesse) au
+      niveau du seuil de pauvreté (soit 1 337 euros 38                        45                10    6 1       83           16
+      par mois pour une personne seule et 2 005
+              euros pour un couple)
+
+        Indexer automatiquement les salaires du
+                                                  35                         47                 13    4 1       82           17
+              secteur privé sur l’inflation
+
+         Augmenter le montant du SMIC à 1 700
+                                                   38                       39                15     7  1       77           22
+                 euros nets par mois
+
+             Tout à fait favorable    Plutôt favorable    Plutôt opposé(e)      Tout à fait opposé(e)    Ne se prononce pas
+
+     Êtes-vousfavorableouopposé(e)àchacunedesmesuressuivantes?
+     Base:Atous,en%
+
+                                                                                                                                 22
+
+--- page 23 ---
+
+La perception de différentes mesures concernant l’augmentation des salaires et des pensions, selon la proximité
+     politique
+
+                                                                            Proximité politique
+
+                                                                                                                         Sans
+                                         La France                                             Les      Rassemblement
+                                                    Les Ecologistes Parti socialiste Renaissance                       préférence
+                            Ensemble
+                                         Insoumise                                         Républicains   National
+                                                                                                                       partisane
+   Augmenter le montant du SMIC
+                               77          96           78           87           65           74            74           76
+       à 1 700 euros nets par mois
+     Indexer automatiquement les
+      salaires du secteur privé sur 82     89           81           89           77           83            80           84
+                   l’inflation
+    Porter l’allocation de solidarité
+   aux personnes âgées (minimum
+    vieillesse) au niveau du seuil de
+                               83          86           85           93           78           83            82           85
+     pauvreté (soit 1337 euros par
+     mois pour une personne seule
+    et 2005 euros pour un couple)
+    Faire contribuer davantage les
+     très grandes entreprises pour
+     aider les petites et moyennes 85      93           88           96           80           81            82           86
+        entreprises à financer les
+            hausses de salaires
+
+     Êtes-vousfavorableouopposé(e)àchacunedesmesuressuivantes?
+     Base:Atous,en%de«Favorable»
+
+                                                                                                                                 23
+
+--- page 24 ---
+
+Titulariser les AESH en poste et créer un corps de fonctionnaires pour ces métiers sont deux mesures soutenues
+     par 8 Français sur 10
+
+                                                                                                             Favorable   Opposé(e)
+
+        Titulariser (c’est-à-dire les faire devenir
+      fonctionnaires) les AESH déjà en poste dans  39                         43                12    5 1       82           17
+            les établissements scolaires
+
+           Créer un corps de fonctionnaires de
+                                                 32                         50                  12    5 1       82           17
+               catégorie B pour les AESH
+
+             Tout à fait favorable    Plutôt favorable    Plutôt opposé(e)      Tout à fait opposé(e)    Ne se prononce pas
+
+     LesAESH sont lesaccompagnantsd’élèvesensituationdehandicap.Êtes-vousfavorableou opposé(e)àchacunedesmesuressuivantes?
+     Base:Atous,en%
+
+                                                                                                                                 24
+
+--- page 25 ---
+
+La perception de  différentes mesures concernant la création d’un corps de fonctionnaire des AESH, selon la
+     proximité politique
+
+                                                                            Proximité politique
+
+                                                                                                                         Sans
+                                         La France                                             Les      Rassemblement
+                                                    Les Ecologistes Parti socialiste Renaissance                       préférence
+                            Ensemble
+                                         Insoumise                                         Républicains   National
+                                                                                                                       partisane
+     Titulariser (c’est-à-dire les faire
+   devenir fonctionnaires) les AESH
+                               82          92           80           92           78           79            78           82
+          déjà en poste dans les
+         établissements scolaires
+             Créer un corps de
+     fonctionnaires de catégorie B 82      90           81           95           78           77            81           80
+                pour les AESH
+
+     LesAESH sont lesaccompagnantsd’élèvesensituationdehandicap.Êtes-vousfavorableou opposé(e)àchacunedesmesuressuivantes?
+     Base:Atous,en%de«Favorable»
+
+                                                                                                                                 25
+
+--- page 26 ---
+
+La mise à jour automatique de l’inscription sur les listes électorales est largement soutenue par les Français, tout
+     comme   les mesures visant à limiter les radiations et à permettre la réinscription sur les listes électorales en amont
+     d’un scrutin
+
+                                                                                                          Favorable    Opposé(e)
+
+         Mettre en place la mise à jour
+        automatique de l’inscription des
+      citoyens sur les listes électorales à tout
+                                                  39                           46                 10   4 1   85           14
+       âge de la vie (par exemple quand
+       une personne déménage pour son
+            travail ou ses études)
+
+      Permettre à une personne radiée de
+
+      demander sa réinscription jusqu’à dix  26                       46                   16       10  2    72           26
+             jours avant le scrutin
+
+      Ne pas radier des personnes des listes
+        électorales pour perte d’attache
+                                              27                      44                   19        8  2    71           27
+        communale dans les six semaines
+           précédant une élection
+
+             Tout à fait favorable    Plutôt favorable    Plutôt opposé(e)      Tout à fait opposé(e)    Ne se prononce pas
+
+     Aujourd’hui, une personne peut être radiée des listes électorales d’une commune si elle est considérée comme n’ayant plus d’attache suffisante avec cette
+     commune  (une personne faisant ses études dans une autre ville, une personne ayant déménagé sans avoir fait les démarches pour changer son inscription
+     électorale…).Êtes-vousfavorableou opposé(e)à chacunedesmesuressuivantes?
+     Base:Atous,en%
+
+                                                                                                                                 26
+
+--- page 27 ---
+
+La perception de différentes mesures concernant le droit de vote et la radiation des listes électorales, selon la
+     proximité politique
+
+                                                                            Proximité politique
+
+                                                                                                                         Sans
+                                         La France                                             Les      Rassemblement
+                                                    Les Ecologistes Parti socialiste Renaissance                       préférence
+                            Ensemble
+                                         Insoumise                                         Républicains   National
+                                                                                                                       partisane
+     Mettre en place la mise à jour
+      automatique de l’inscription
+         des citoyens sur les listes
+   électorales à tout âge de la vie 85     87           79           91           94           84            82           84
+        (par exemple quand une
+    personne déménage pour son
+           travail ou ses études)
+       Permettre à une personne
+         radiée de demander sa
+                               72          77           82           76           68           65            70           76
+      réinscription jusqu’à dix jours
+               avant le scrutin
+      Ne pas radier des personnes
+   des listes électorales pour perte
+   d’attache communale dans les 71         74           76           81           70           70            66           74
+      six semaines précédant une
+                    élection
+     Aujourd’hui, une personne peut être radiée des listes électorales d’une commune si elle est considérée comme n’ayant plus d’attache suffisante avec cette
+     commune  (une personne faisant ses études dans une autre ville, une personne ayant déménagé sans avoir fait les démarches pour changer son inscription
+     électorale…).Êtes-vousfavorableou opposé(e)à chacunedesmesuressuivantes?
+     Base:Atous,en%de«Favorable»
+
+                                                                                                                                 27
+
+--- page 28 ---
+
+Environ 3 Français sur 4 soutiennent les mesures concernant l’accompagnement des  enfants et des jeunes en
+     difficulté et souhaitent notamment le prolongement de l’ASE et de la PJJ jusqu’à 25 ans
+
+                                                                                                          Favorable    Opposé(e)
+
+         Permettre l’accompagnement des
+       jeunes majeurs protégés jusqu’à 25 ans 29                        48                    14     7  2    77           21
+         quel que soit leur parcours de vie*
+
+        Créer un fonds financé par l’État pour
+         aider les départements à financer    29                       45                   16       8  2    74           24
+       l’accompagnement des jeunes majeurs
+
+         Permettre l’accompagnement des
+        jeunes suivis par la protection judiciaire 28                  46                   16       8  2    74           24
+         de la jeunesse jusqu’à leurs 25 ans
+
+             Tout à fait favorable    Plutôt favorable    Plutôt opposé(e)      Tout à fait opposé(e)    Ne se prononce pas
+
+     L’aide sociale à l’enfance (ASE)accompagne les enfants et jeunes en difficulté. La protection judiciaire de la jeunesse (PJJ) suit notamment des jeunes faisant l’objet
+     demesuresjudiciaires.Actuellement,cesdeuxdispositifssuiventlesjeunesjusqu’àleurs21 ans.Êtes-vousfavorableou opposé(e)à chacunedesmesuressuivantes?
+     Base:Atous,en%
+
+                           *L’item entier est : «Permettre l’accompagnement des jeunes majeurs protégés jusqu’à 25 ans quel que soit leur parcours de vie (qu’ils soient issus 28
+                           de l’aide sociale à l’enfance, de la protection judiciaire de la jeunesse, ou que leur vulnérabilité sur le plan familial soit repérée post majorité)»
+
+--- page 29 ---
+
+La perception de différentes mesures concernant la protection des jeunes majeurs de l’ASE et de la PJJ, selon
+     la proximité politique
+
+                                                                            Proximité politique
+
+                                                                                                                         Sans
+                                         La France                                             Les      Rassemblement
+                                                    Les Ecologistes Parti socialiste Renaissance                       préférence
+                            Ensemble
+                                         Insoumise                                         Républicains   National
+                                                                                                                       partisane
+    Permettre l’accompagnement
+      des jeunes majeurs protégés
+                               77          92           72           89           78           72            75           75
+   jusqu’à 25 ans quel que soit leur
+              parcours de vie*
+       Créer un fonds financé par
+            l’État pour aider les
+        départements à financer 74         95           82           82           67           63            68           70
+   l’accompagnement des jeunes
+                    majeurs
+    Permettre l’accompagnement
+          des jeunes suivis par la
+                               74          80           76           90           80           67            70           73
+       protection judiciaire de la
+      jeunesse jusqu’à leurs 25 ans
+
+     L’aide sociale à l’enfance (ASE)accompagne les enfants et jeunes en difficulté. La protection judiciaire de la jeunesse (PJJ) suit notamment des jeunes faisant l’objet
+     demesuresjudiciaires.Actuellement,cesdeuxdispositifssuiventlesjeunesjusqu’àleurs21 ans.Êtes-vousfavorableou opposé(e)à chacunedesmesuressuivantes?
+     Base:Atous,en%de«Favorable»
+
+                           *L’item entier est : «Permettre l’accompagnement des jeunes majeurs protégés jusqu’à 25 ans quel que soit leur parcours de vie (qu’ils soient issus 29
+                           de l’aide sociale à l’enfance, de la protection judiciaire de la jeunesse, ou que leur vulnérabilité sur le plan familial soit repérée post majorité)»
+
+--- page 30 ---
+
+Plus de 8 Français sur 10 se montrent favorables à la révision annuelle automatique des pensions alimentaires et
+     7 sur 10 favorables à l’augmentation de l’allocation de soutien familial et à la fin de la déduction fiscale pour le
+     payeur d’une  pension alimentaire
+
+                                                                                                          Favorable   Rappel 2025*
+
+        La révision annuelle automatique des
+      pensions alimentaires selon l’indice des prix 34                       50                  10   5 1    84           85
+        à la consommation publié par l’INSEE
+
+       L’augmentation de l’allocation de soutien
+      familial (ASF), qui vise à aider à l’éducation
+       d’enfants privés du soutien d’au moins un
+                                               27                      47                   16      8   2    74           72
+         des parents en leur garantissant une
+       contribution minimale d’entretien délivrée
+      par la CAF (Caisse d’Allocations Familiales)
+
+      Exonérer les pensions alimentaires reçues de
+        l’impôt sur le revenu en supprimant en
+                                               27                     43                  19        9   2    70           70
+       contrepartie la déduction fiscale pour le
+        parent qui verse la pension alimentaire
+
+             Tout à fait favorable    Plutôt favorable    Plutôt opposé(e)      Tout à fait opposé(e)    Ne se prononce pas
+
+     Aujourd’hui, les pensions alimentaires versées au parent qui a la garde des enfants sont assujetties à l’impôt sur le revenu, tandis que le versement de cette pension
+     alimentaire par le parent « non-gardien » bénéficie de la possibilité de déduire ce montant de l’impôt sur le revenu. Seriez-vous favorable ou opposé(e) à chacune
+     desmesuressuivantes?
+     Base:Atous,en%
+                                                                        Rappels issus de l’étude «Niche parlementaire 2025» réalisée en ligne pour LFI, du 10 au 12 novembre 2025, auprès
+                                                                        d’un échantillon de 1 173 personnes représentatif de la population française âgée de 18 ans et plus. 30
+
+--- page 31 ---
+
+La perception de différentes mesures concernant les pensions alimentaires, selon la proximité politique
+
+                                                                            Proximité politique
+
+                                                                                                                         Sans
+                                         La France                                             Les      Rassemblement
+                                                    Les Ecologistes Parti socialiste Renaissance                       préférence
+                            Ensemble
+                                         Insoumise                                         Républicains   National
+                                                                                                                       partisane
+            La révision annuelle
+       automatique des pensions
+     alimentaires selon l’indice des 84    84           83           95           88           83            84           83
+    prix à la consommation publié
+                  par l’INSEE
+    L’augmentation de l’allocation
+   de soutien familial (ASF), qui vise
+   à aider à l’éducation d’enfants
+   privés du soutien d’au moins un
+                               74          90           79           92           76           68            68           72
+   des parents en leur garantissant
+       une contribution minimale
+    d’entretien délivrée par la CAF
+   (Caisse d’Allocations Familiales)
+           Exonérer les pensions
+    alimentaires reçues de l’impôt
+    sur le revenu en supprimant en
+                               70          76           62           75           73           71            72           66
+       contrepartie la déduction
+    fiscale pour le parent qui verse
+          la pension alimentaire
+     Aujourd’hui, les pensions alimentaires versées au parent qui a la garde des enfants sont assujetties à l’impôt sur le revenu, tandis que le versement de cette pension
+     alimentaire par le parent « non-gardien » bénéficie de la possibilité de déduire ce montant de l’impôt sur le revenu. Seriez-vous favorable ou opposé(e) à chacune
+     desmesuressuivantes?
+     Base:Atous,en%de«Favorable»
+                                                                                                                                 31
+
+--- page 32 ---
+
+La perception de différentes mesures concernant les pensions alimentaires selon la situation parentale
+
+                                                                                 Situation parentale
+
+                                                   Seul(e) sans enfant Seul(e) avec enfant(s) En couple sans enfant En couple avec enfant(s)
+                                     Ensemble
+
+         La révision annuelle automatique des
+   pensions alimentaires selon l’indice des prix à 84    83                  89                   87                   83
+          la consommation publié par l’INSEE
+
+     L’augmentation de l’allocation de soutien
+     familial (ASF), qui vise à aider à l’éducation
+      d’enfants privés du soutien d’au moins un
+                                        74               75                  88                   68                   76
+          des parents en leur garantissant une
+     contribution minimale d’entretien délivrée
+     par la CAF (Caisse d’Allocations Familiales)
+
+    Exonérer les pensions alimentaires reçues de
+        l’impôt sur le revenu en supprimant en
+                                        70               69                  80                   64                   77
+       contrepartie la déduction fiscale pour le
+        parent qui verse la pension alimentaire
+
+     Aujourd’hui, les pensions alimentaires versées au parent qui a la garde des enfants sont assujetties à l’impôt sur le revenu, tandis que le versement de cette pension
+     alimentaire par le parent « non-gardien » bénéficie de la possibilité de déduire ce montant de l’impôt sur le revenu. Seriez-vous favorable ou opposé(e) à chacune
+     desmesuressuivantes?
+     Base:Atous,en%de«Favorable»
+
+                                                                                                                                 32
+
+--- page 33 ---
+
+Le rétablissement de l’interdiction de l’acétamipride et du flupyradifurone est soutenu par près des trois quarts des
+     Français, une mesure homogène   parmi les sympathisants des différentes formations politiques – à l’exception de
+     ceux du Rassemblement   National qui se trouvent légèrement en retrait
+
+  Favorable  au  rétablissement  de  l’interdiction de l’acétamipride et
+
+                                                                             En % de Favorable /Opposé(e)
+  du  flupyradifurone : 73%
+
+                                                                            La France Insoumise          81               19
+                            38
+
+                                                                                Les Ecologistes          80               20
+
+                                                                                 Parti socialiste       79               21
+
+                      9
+                                            35
+                                                                                  Renaissance          74                26
+
+                            18                                                 Les Républicains         79               20   1
+
+                                                Tout à fait favorable
+    Opposé(e)   : 27%
+                                                Plutôt favorable         Rassemblement National       66               34
+                                                Plutôt opposé(e)
+                                                Tout à fait opposé(e)
+                                                                        Sans préférence partisane      72               28
+
+     En 2026, l’usage de deux pesticides, l’acétamipride et le flupyradifurone, a de nouveau été autorisé pour certaines cultures agricoles (noisettes, cerises, pommes,
+     betteraveàsucre).Seriez-vousfavorableouopposé(e)àcequel’acétamiprideetleflupyradifuronesoient denouveauinterdits?
+     Base:Atous,en%
+
+                                                                                                                                 33
+
+--- page 34 ---
+
+La  proposition d’abrogation des amendes   forfaitaires délictuelles et son remplacement par une procédure
+     pénale  standard obtient le soutien d’une majorité de Français, et est largement soutenue par les sympathisants
+     insoumis
+
+                                                                             En % de Favorable /Opposé(e)
+  Favorable  à  l’abrogation des  amendes    forfaitaires délictuelles : 58%
+
+                                                                            La France Insoumise         79               20   1
+
+                                                                                Les Ecologistes     54               46
+                        23
+                                           35
+                                                                                 Parti socialiste   55               45
+
+                     2
+                                                                                  Renaissance        58               42
+
+                       16                                                      Les Républicains     56              38      6
+
+                                     24
+                                                                         Rassemblement National      62               36      2
+                                                Tout à fait favorable
+    Opposé(e)   : 40%
+                                                Plutôt favorable
+                                                Plutôt opposé(e)
+                                                                        Sans préférence partisane   51              45       4
+                                                Tout à fait opposé(e)
+                                                Ne se prononce pas
+     Aujourd’hui, certains délits peuvent être sanctionnés par une amende forfaitaire délictuelle, c’est-à-dire une amende décidée directement par les membres des
+     forces de l’ordre (policier, gendarme) sans procès immédiat devant un juge. Seriez-vous favorable ou opposé(e) à l’abrogation (c’est-à-dire la suppression) du
+     dispositif des amendes forfaitaires délictuelles, c’est-à-dire que l’ensemble des délits seraient concernés par une procédure pénale standard (en passant devant un
+     tribunalcorrectionnel)?
+     Base:Atous,en%
+                                                                                                                                 34
+
+--- page 35 ---
+
+Le moratoire de  dix ans sur la réalisation du Canal Seine-Nord Europe est soutenu par près de la moitié des
+     Français et en particulier par les sympathisants insoumis. Toutefois, plus d’un tiers des Français ne se positionnent
+     pas par manque  de  connaissance sur le sujet
+
+                                                                                   En % deFavorable / Opposé(e)
+ Favorable  au
+
+ moratoire  sur le
+                                          29                                La France Insoumise      59          10     31
+ Canal  Seine-Nord
+
+ Europe  : 45%           16                                                     Les Ecologistes    45         22       33
+
+                                                                                 Parti socialiste  49         14       37
+                                                   12
+
+                                                                                  Renaissance       53           23      24
+
+                                                 6
+                                                                               Les Républicains    50          16      34
+
+                                37
+         Tout à fait favorable                     Opposé(e)   : 18%     Rassemblement National    47         20       33
+         Plutôt favorable
+
+         Plutôt opposé(e)
+                                                                        Sans préférence partisane 37      16         47
+         Tout à fait opposé(e)
+         Vous ne connaissez pas assez ce projet pour vous prononcer
+     Le Canal Seine-Nord Europe est un projet de grand canal fluvial d’une longueur de 107 km à travers les départements de l’Oise, de la Somme et du Nord, destiné à
+     relier le bassin de la Seine au réseau fluvial du nord de l’Europe. Les parties prenantes du projet mettre en avant ses apports en matière d’économie, de maîtrise de
+     l'eauetd'écologietandisquecelui-ciestcontestépardiversacteurspoursoncoût,lesrisquespourl’écosystèmelocaletlapréexistenced’unautrecanal.
+     Êtes-vous favorable ou opposé(e) à l’instauration d’un moratoire de dix années sur la réalisation du Canal Seine-Nord Europe et de ses aménagements associés, c’est-
+     à-direla suspensiondeceprojetdurant10 ans?
+     Base:Atous,en%
+
+                                                                                                                                 35
+
+--- page 36 ---
+
+Contacts  Toluna  – Harris Interactive en France :                    Merci  de  noter que   toute diffusion de ces
+
+                                                                             résultats doit être accompagnée  des éléments
+                                                                             techniques suivants : le nom de l’institut, le nom
+       Jean-Daniel Lévy
+                                                                             du  commanditaire   de   l’étude, la méthode
+       Directeur délégué – Stratégies politiques et d’opinion
+                                                                             d’enquête, les dates de réalisation et la taille de
+       jdlevy@toluna.com
+                                                                             l’échantillon.
+       Jean-Philippe Dubrulle
+       Directeur des études – Département Politique et Opinion
+       jphilippe.dubrulle@toluna.com
+
+                                                         wwwwww..ttoolluunnaaccoorrppoorraattee..ccoomm
