@@ -1,0 +1,873 @@
+# notice commission des sondages
+# source_pdf: archives/2026/novembre/10349-pres-barometre-engagement-des-entreprises-ipsos-bva-3-novembre.pdf
+# extraction: pdfplumber (layout=True)
+
+--- page 1 ---
+
+•  03    novembre          2026
+
+                                NOTICE               TECHNIQUE
+
+                                Sondage    d’opinion  « Baromètre     de l’engagement     des
+                                entreprises   – Novembre     2026  »
+
+--- page 2 ---
+
+ARTICLE      2 –  INFORMATIONS           GENERALES
+
+    ▪ Organisme    ayant  réalisé  le sondage              IPSOS  bva
+
+    ▪ Commanditaires      du sondage                       Les  entreprises   s’engagent
+
+    ▪ Nombre    de personnes    interrogées                401 dirigeants   d’entreprises   de  10 salariés et  plus.
+
+    ▪ Dates  de réalisation   des  interviews              Du 24  août  au 11 septembre    2026
+
+    ▪ Date  de diffusion  prévue                           Mardi  3 novembre,    10h30
+
+    ▪ Questionnaire                                        Présenté   intégralement     dans  le rapport  d’étude  ci-après
+
+--- page 3 ---
+
+ARTICLE      3 – INFORMATIONS            GENERALES
+
+                                                     Baromètre  de l’engagement des entreprises - Ipsos bva pour Les entreprises
+     ▪ Objet du sondage
+                                                     s’engagent
+
+                                                     401 entreprises représentatives des entreprises françaises de 10 salariés et
+                                                     plus.
+
+                                                     Méthode  des quotas : secteur d’activité, taille d’entreprise, région.
+     ▪ Echantillon interrogé
+                                                     L’échantillon a été raisonné pour pouvoir disposer de plus de répondants auprès
+                                                     des entreprises de 50 salariés et plus. Ces entreprises ont été ramenées à leur
+
+                                                     poids réel dans les résultats d’ensemble.
+
+     ▪ Mode de recueil                               Échantillon interrogé par téléphone
+
+                                                     Le taux de non-réponse  (lorsqu’il est supérieur à 0) est présenté pour chaque
+     ▪ Taux de non-réponse
+                                                     question dans le rapport ci-après.
+
+     ▪ Gratification des personnes interrogées       Néant
+
+                                                     Le redressement  a été effectué à partir de la structure des entreprises
+     ▪ Critères de redressement
+                                                     françaises de 10 salariés et plus (secteur d’activité, taille d’entreprise et région).
+
+--- page 4 ---
+
+BAROMÈTRE                      DE
+
+     L’ENGAGEMENT
+
+     DES       ENTREPRISES
+
+     VOLET      EXTERNE
+
+     Rapport     de  résultats
+
+--- page 5 ---
+
+01
+     CONTEXTE                      ET
+
+     MÉTHODOLOGIE
+
+                                                                  5
+
+--- page 6 ---
+
+MÉTHODOLOGIE
+
+                  ÉCHANTILLON                                              MÉTHODOLOGIE
+
+                   401 entreprises représentatives des
+                   entreprises françaises de 10 salariés et plus.           Enquête réalisée par téléphone
+
+                                                                            La représentativité de l’échantillon est
+
+                                                                            assurée par la méthode des quotas
+                                                                            appliqués aux variables suivantes : région,
+                 DATES    DE  TERRAIN
+                                                                            taille d’entreprise, secteur de l’entreprise
+
+                  Du 24 août au 11 septembre 2026
+
+                 Ce rapport a été réalisé pour :
+
+                Ce rapport a été élaboré dans le respect de la norme internationale ISO 20252 «Etudes de marché, études sociales et d’opinion».
+                Ce rapport a été relu par Christelle Craplet, directrice Public Affairs chez Ipsos Bva
+
+                                                                  6
+
+--- page 7 ---
+
+Profil  de   l’échantillon
+
+     Structure des entreprises de 10 salariés et plus
+
+                                              Taille de l’entreprise               %
+
+                                                                10 à 49 salariés  84%
+
+                                                                50 à 99 salariés   8%
+                                                             100 salariés et plus  8%
+
+                                               Secteur d’activité                  %
+
+                                                  Agriculture/Industrie/Construction 32%
+                                       Commerce, transports, hébergement/restauration 36%
+
+                                                                     Services     32%
+
+                                                    Région                         %
+                                                                 Île-de-France    25%
+
+                                                          Auvergne-Rhône-Alpes    13%
+
+                                                       Bourgogne-Franche-Comté     4%
+                                                                    Bretagne       5%
+
+                                                             Centre-Val de Loire   3%
+                                                                    Grand Est      8%
+
+                                                               Hauts-de-France     7%
+                                                                   Normandie       4%
+
+                                                             Nouvelle-Aquitaine    9%
+                                                                    Occitanie      8%
+
+                                                                Pays de la Loire   6%
+                                                 Provence-Alpes-Côte d'Azur / Corse 8%
+                                                                  7
+
+--- page 8 ---
+
+O2
+     RAPPORT                    DES
+
+     RESULTATS
+
+                                                                  8
+
+--- page 9 ---
+
+Partie            1.
+
+     Des     entreprises           convaincues            par    les    engagements
+
+     sociaux        et   environnementaux,                   qui   souhaitent           toujours
+
+     s’engager          et   restent       pleinement           conscientes            de
+
+     l’importance            de   cet    engagement             pour      elle   et   la  société
+
+                                                                  9
+
+--- page 10 ---
+
+Opinion    des   entreprises       concernant        leurs   engagements          sociaux     et environnementaux
+
+     Les dirigeants pointent toujours la très grande importance des enjeux sociaux et environnementaux pour les entreprises. Ils sont même plus
+
+     nombreux à dire que les entreprises doivent encore aller plus loin sur le sujet. Des scores en hausse qui retrouvent les niveaux mesurés en 2024.
+
+     Q1. Êtes-vous d’accord ou pas d’accord avec chacune des affirmations suivantes ?
+     Base : à tous
+
+                                                                                                % D’accord    2025       2024
+
+                                                                                          4%
+        En 2026, la prise en compte des enjeux sociaux est devenue
+                                                           41%               51%        4%
+                         incontournable pour les entreprises                                       92%         89%       90%
+
+                                                                                          3%
+       En 2026, la prise en compte des enjeux environnementaux est
+                                                            44%              46%        7%
+                   devenue incontournable pour les entreprises                                     90%         84%       89%
+
+        En France, les entreprises devraient aller plus loin dans leur
+          engagement sur les enjeux sociaux et environnementaux 31%     48%          15% 6%        79%         73%       79%
+
+                                                                                           Ne se prononce pas (non
+        Tout à fait d’accord   Plutôt d’accord    Plutôt pas d’accord  Pas du tout d’accord
+                                                                                                 suggéré)
+                                                                  10
+
+--- page 11 ---
+
+Continuité      de  l’engagement         des   entreprises       françaises
+
+    Dans un contexte incertain économiquement et politiquement, les entreprises jugent majoritairement qu’il est primordial de continuer à s’engager.
+
+    Q14. Avec la conjoncture économique et politique actuelle, pensez-vous qu’il est primordial, important mais pas primordial ou secondaire que les entreprises
+    françaises continuent à s’engager ?
+    Base : A tous
+
+                                                                                            89%
+
+                                                                                   Primordial  ou important
+                                                            11%
+
+                                                     29%
+
+                                                                         60%
+
+                    C’est primordial    C’est important mais pas primordial C’est secondaire  Ne se prononce pas (non suggéré)
+
+                                                                  11
+
+--- page 12 ---
+
+Spécificités      d’une    entreprise      engagée
+
+     Pour près de trois quarts des dirigeants, une entreprise qui s’engage est une entreprise qui met en place des actions concrètes pour réduire l’impact
+     de ses activités. Ils sont également une majorité à estimer que l’engagement passe par le développement d’actions en lien avec son territoire.
+
+     Q2. Pour vous, une entreprise qui s’engage, c’est avant tout une entreprise qui… En 1er ? Et ensuite ?
+     Base : à tous
+
+        Met en place des actions concrètes (recrutements inclusifs, achats inclusifs)
+             pour réduire l’impact de ses activités, accroître son impact positif sur 37% 71%
+                                          l’environnement et la société
+
+         Développe des actions en lien avec son territoire (emploi local, partenariats
+                                                                 21%            61%
+             avec les acteurs locaux, soutien à l’économie locale, ancrage dans les
+                                            dynamiques territoriales)
+
+           Ouvre sa gouvernance à l’ensemble des parties prenantes (salariés, état, 10% 45%
+       associations, monde académique, collectif citoyen, clients, fournisseurs) pour
+                                              composer avec chacun
+
+                                                               10%          44%
+          Intègre formellement son engagement au sein des statuts de l’entreprise
+
+         Va plus loin que les objectifs ou obligations légales fixées (quota, reporting
+                                                               12%         40%
+                                              financier annuel, etc…)
+
+           Est prête à revoir à la baisse ses objectifs financiers pour respecter ses
+                                                               10%        38%
+                                 objectifs sociétaux et environnementaux
+                                                               Ne se prononce pas* : 1%
+                                                                 En premier   Au total
+                                                                                                   *Item non suggéré
+                         Total supérieur à 100% car plusieurs réponses étaient possibles 12
+
+--- page 13 ---
+
+Mise   en  place    de  pratiques      sociales     et  environnementales
+
+    Huit entreprises sur dix déclarent avoir mis en place des pratiques sociales et environnementales : un score élevé et stable, d’autant plus notable dans
+
+    le contexte économique actuel.
+
+    Q3. En ce qui concerne la mise en place de pratiques sociales et environnementales, diriez-vous que… ?
+    Base : à tous
+
+                           % des entreprises qui                                             % des entreprises qui
+                           n’ont pas mis en place                                             ont mis en place des
+                                d’action:                                                         actions:
+
+                                 21%                                                               79%
+                                                               6%
+
+                                                         15%                                   Rappel 2025 : 80%
+                                                                         31%
+                                                                                               Rappel 2024 : 82%
+                                                                       Rappel 2025 : 30%
+                                                                       Rappel 2024 : 34%
+
+                                                             48%
+
+                                                                    Votre entreprise n’a pas mis en place d’action Votre entreprise n’a pas mis en place d’action
+          Votre entreprise a bien avancé, de Votre entreprise a un peu avancé, certaines
+                                                                    sur ces aspects, mais a l’intention de le faire sur ces aspects et n’a pas l’intention de le faire
+       nombreuses pratiques ont été mises en place pratiques ont été mises en place
+                                                                              prochainement                 prochainement
+     En 2025, l’intitulé de la question était «En ce qui concerne la mise en place de pratiques sociales et environnementales plus vertueuses, diriez-vous que… ?»
+                                                                  13
+
+--- page 14 ---
+
+Actions     déjà   engagées       ou  à venir
+
+    Les actions en faveur de l’égalité professionnelle, de la lutte contre les discriminations, de la jeunesse et de la qualité de vie au travail sont les plus
+
+    largement engagées. En revanche, comme en 2025, l’engagement en faveur des seniors décroit.
+
+    Q7. Je vais maintenant vous citer différents domaines. Veuillez m’indiquer ceux pour lesquels votre entreprise a engagé des actions, ou a l’intention de le faire.
+    Base : Aux entreprises qui ont mis en place des actions ou qui ont l’intention de le faire (378 répondants)
+                                                                                                          2025    2024
+
+       L’égalité professionnelle entre les femmes et les hommes de votre entreprise 85%        8% 7%      87%     89%
+       La lutte contre les discriminations (religieuses, sexuelles, territoriale, d’origine
+                                                                           85%                 9% 6%      81%     87%
+                                                     sociale)
+            La qualité de vie au travail (sport, santé, prévention, horaires adaptés) 84%     10% 6%      75%     78%
+
+         L’engagement en faveur de la jeunesse (stage, alternance, lien avec l’école) 84%     9%  7%      85%     88%
+
+                          Des actions en faveur de la transition écologique 74%             20%   6%       -       -
+
+     La mise en place d’une politique d’achat durable et inclusif via des prestataires de
+                                                                       69%               14%   17%        74%     75%
+                                                   proximité
+       L'inclusion de tous les publics dans l'emploi dont personnes vulnérables et/ou
+                                                                       68%               15%   17%        65%     70%
+                                            éloignées de l'emploi
+     Un partage plus équitable de la valeur dans l’entreprise (répartition des richesses
+                                                                       67%               17%    16%       64%     62%
+                        entre les dirigeants, les salariés et les actionnaires)
+         L’engagement en faveur des séniors (recrutement, maintien dans l’emploi,
+                                                                      63%             10%    27%          67%     72%
+                                           conditions de travail…)
+                           Le soutien à des associations d'intérêt général 55%     15%      30%            -       -
+          La transformation de votre gouvernance vers un modèle plus participatif,
+                                                                   49%            20%       31%            -       -
+                                       démocratique et transparent
+                                                                                     Vous ne le faites pas et n’avez pas
+                             Vous le faites déjà       Vous avez l’intention de le faire
+                                                                                          l’intention de faire
+                                                                  14
+
+--- page 15 ---
+
+Raisons     de  mise    en  place    de  pratiques      sociales     et  environnementales
+
+    L’impact positif sur la société et l’environnement constitue la première motivation à l’engagement, devant l’image de marque et l’attractivité.
+
+    Q6. Pour quelles raisons votre entreprise a-t-elle engagé ou a-t-elle l’intention d’engager des actions sur le plan social et environnemental ?
+    Base : Aux entreprises qui ont mis en place des actions ou qui ont l’intention de le faire (378 répondants)
+
+                                    Pour avoir un impact positif sur la société et
+                                                                                  75%
+                                                        l’environnement
+
+                                            Pour améliorer l’image de marque  57%
+
+                                  Pour renforcer l’attractivité de votre entreprise
+                                       auprès de vos parties prenantes (clients, 56%
+                                   fournisseurs, collaborateurs actuels et futurs)
+
+                                       Pour maintenir la compétitivité de votre
+                                                                             51%
+                                                            entreprise
+
+                                  Pour développer l’activité économique de votre
+                                                                          44%
+                                                            entreprise
+
+                                                                Autre 1%
+
+                         Total supérieur à 100% car plusieurs réponses étaient possibles 15
+
+--- page 16 ---
+
+Perception       détaillée     suite   à la mise    en  place    de  pratiques      RSE    en  entreprise
+
+   La résilience et l’amélioration de l’image de marque constituent les principaux bénéfices perçus des pratiques engagées. En revanche, l’impact
+
+   commercial, sur le recrutement ou la fidélisation des salariés reste limité.
+
+    Q5. Et diriez-vous que depuis que vous avez mis en place des pratiques sociales et environnementales plus vertueuses…
+    Base : Aux entreprises ayant déjà mis en place des actions (318 répondants)
+                                                                                         % Oui plutôt
+
+                                                                                        2025  2024
+
+                          Votre entreprise est plus résiliente face aux
+                                                                 67%          33%
+                                                                                         -      -
+                                 changements internes et externes
+                              Votre image de marque s’est améliorée
+                                                                63%          37%
+                                                                                        58%    57%
+                            auprès de vos clients et parties prenantes
+                               Vos collaborateurs sont plus motivés 47%    53%
+                                                                                        48%   46%
+
+                          Vous avez obtenu de nouvelles opportunités
+                                                            32%          68%
+                                                                                        33%    31%
+                                    auprès de nouveaux prospects
+                                  Vous avez moins de difficultés de
+                                                           22%          78%
+                                                                                        21%    18%
+                             recrutement et de rétention des talents
+
+                                                      Oui, plutôt        Non, plutôt pas
+
+                                                                  16
+
+--- page 17 ---
+
+Partie            2.
+
+     Une     véritable        intention,        oui    - mais      des    difficultés         qui
+
+     persistent          dans     la  mise      en   œuvre        de   ces     actions.
+
+                                                                  17
+
+--- page 18 ---
+
+Opinion    des   entreprises       concernant        leurs   engagements          sociaux     et environnementaux
+
+     La mise en œuvre des engagements reste largement perçue comme difficile tandis que le soutien apporté aux entreprises progresse, mais
+     demeure minoritaire.
+
+    Q1. Êtes-vous d’accord ou pas d’accord avec chacune des affirmations suivantes ?
+    Base : à tous
+
+                                                                                                % D’accord      2025      2024
+
+      Les engagements sociaux et environnementaux sont difficiles à
+                                                         27%             57%          13%3%        84%          84%       84%
+                         mettre en place pour les entreprises
+
+       On en demande trop aux entreprises sur les enjeux sociaux et
+                                                         30%           41%         21%   8%
+                                                                                                   71%          68%       70%
+                                     environnementaux
+
+       Les entreprises sont suffisamment soutenues dans la mise en
+            œuvre de pratiques sociales et environnementales plus 8% 30%  39%         23%
+                                                                                                   38%          31%       32%
+                                        respectueuses
+
+                                                                                           Ne se prononce pas (non
+        Tout à fait d’accord   Plutôt d’accord    Plutôt pas d’accord  Pas du tout d’accord
+                                                                                                 suggéré)
+                                                                  18
+
+--- page 19 ---
+
+Impact     de  la mise    en  place    de  pratiques      sociales     et  environnementales            sur  la
+
+    performance         de  l’entreprise
+
+    Comme  en 2025, les trois quarts des dirigeants estiment que la performance de leur entreprise n’a pas été modifiée suite à la mise en place de pratiques
+    et environnementales plus vertueuses. Toutefois on observe une tendance haussière des évaluations positives, qui sont toujours largement au dessus
+    des perceptions négatives.
+
+    Q4. Depuis que vous avez mis en place des pratiques sociales et environnementales plus vertueuses, diriez-vous que … ?
+    Base : Aux entreprises ayant déjà mis en place des actions (318 répondants)
+
+                                                                             Rappels
+                                                                             2025 : 17%
+
+                                                                             2024 : 19%
+                                                                       21%
+
+                                                                                 Rappels
+                                                                           5%    2025 : 6%
+                                                                                 2024 : 5%
+
+                                                        74%
+                                               Rappels
+                                               2025 : 76%
+                                               2024 : 75%
+
+                                                                                    La performance de votre entreprise
+                      Votre entreprise est plus performante Votre entreprise est moins performante
+                                                                                          n’a pas été modifiée
+
+                                                                  19
+
+--- page 20 ---
+
+Coopération        entre   entreprises       autour    des   enjeux     sociaux     et  environnementaux
+
+    Plus de deux entreprises sur trois estiment que la coopération entre entreprises reste insuffisante sur ces sujets.
+
+    Q11. Diriez-vous qu’aujourd’hui les entreprises coopèrent suffisamment entre elles autour des enjeux sociaux et environnementaux ?
+    Base : A tous
+
+                                                                          32%
+
+                                                        68%
+
+                                              Oui, suffisamment            Non, pas suffisamment
+
+                                                                  20
+
+--- page 21 ---
+
+Conditions      nécessaires        pour   permettre       aux   entreprises       de  s’engager      davantage
+
+     Les conditions qui favoriseraient l’engagement sont surtout liées à une simplification de la réglementation ainsi que des incitations financières.
+
+     Q8. Selon vous, quelles seraient les principales conditions qui permettraient à votre entreprise de s’engager davantage ?
+     Base : Aux entreprises qui n’ont pas mis en place d’actions ou qui ont l’intention de le faire (275 répondants)
+
+                    Une réglementation plus souple ou moins contraignante               44%
+
+                                        Des incitations financières                   42%
+
+                           Un meilleur accompagnement porté par l'Etat           34%
+
+                       Une meilleure information sur les dispositifs d'aide 27%
+
+                 Une meilleure information sur les réglementations en place 20%
+
+         Un meilleur accompagnement porté par un collectif d’entreprises dédié 20%
+
+                         Total supérieur à 100% car deux réponses étaient possibles 21 Total > 100% car plusieurs réponses possibles.
+
+--- page 22 ---
+
+Partie            3.
+
+     Des     dirigeants         qui   se    positionnent           comme         les
+
+     acteurs        les   plus     importants           pour     faire    progresser
+
+     les   pratiques          mais     qui    déplorent         toujours        certains
+
+     freins      économiques              pour     le  faire.
+
+                                                                  22
+
+--- page 23 ---
+
+Responsabilité        des   pratiques      sociales     et/ou    environnementales            au  sein   de  l’entreprise
+
+     Comme  les années précédentes, les dirigeants se positionnent de loin comme ayant la plus grande responsabilité pour faire progresser les pratiques
+     sociales et/ou environnementales en entreprise.
+
+    Q10. Concernant les pratiques sociales et/ou environnementales au sein de l'entreprise, à qui, selon vous, appartient le plus la responsabilité de les faire
+    évoluer/progresser ? En 1er ? Et ensuite ?
+    Base : A tous                                                                                  2025 2024
+
+                                        Le dirigeant/la dirigeante 45%         68%                 66%   67%
+
+                                           Les cadres dirigeants 19%    41%                        41%   41%
+
+                             Les collaborateurs ou leurs représentants 14% 40%                     38%  39%
+
+    Un comité dédié composé de collaborateurs et de dirigeants appuyé par des
+                                                             15%     31%                           22%   27%
+                                                     experts
+
+                                       Le conseil d’administration 6% 14%                          9%    10%
+
+                                                              En premier   Au total
+                         Total supérieur à 100% car deux réponses étaient possibles 23
+
+--- page 24 ---
+
+Difficultés     de  réalisation
+
+      L’accès aux financements et l’intégration des enjeux sociaux et environnementaux au modèle économique arrivent en tête des difficultés
+
+      rencontrées par les dirigeants.
+      Q9. En tant que dirigeant, parmi les propositions suivantes, qu’est-ce qui vous semble le plus difficile à réaliser aujourd’hui ?
+      Base : A tous - Trois réponses possibles.
+
+                                            Obtenir des financements           46%
+
+                          Intégrer les enjeux sociaux et environnementaux au
+                                                                              43%
+                           cœur même du modèle économique de l’entreprise
+                           Analyser les retombées de l’engagement en termes
+                                                                            39%
+                                                    de performance
+
+                         Convaincre les collaborateurs de l’utilité de s’engager 37%
+
+                           Trouver des informations sur les différents moyens
+                                                                           36%
+                                    et outils de passage à l’action existant
+                          Engager la mise en œuvre, faire le premier pas dans
+                                                                      25%
+                                                     l’engagement
+                         Légitimer l’action auprès du grand public, des leaders
+                                                                     21%
+                                                         d’opinion
+                                                                 1%
+                                         Aucune difficulté (non suggéré)
+
+                         Total supérieur à 100% car trois réponses étaient possibles 24
+
+--- page 25 ---
+
+Partie            4.
+
+     Dans      la  perspective            de   l’élection        présidentielle,           les
+
+     dirigeants         demandent             qu’on      tienne      compte        de    leur
+
+     expertise         et   de   leur    rôle    sur    le  sujet     de   l’engagement.
+
+                                                                  25
+
+--- page 26 ---
+
+Place    consacrée       au  rôle  des   entreprises       dans    la société
+
+    La très grande majorité des dirigeants estime que le rôle des entreprises pour faire évoluer positivement la société est trop minoré.
+
+    Q15. Selon vous, dans la campagne pour l’élection présidentielle, avez-vous le sentiment qu’on parle suffisamment du rôle des entreprises pour faire évoluer
+    positivement la société ?
+    Base : à tous
+
+                                     %  Non :                                              % OUI :
+
+                                       77%                                                  22%
+
+                                                                   3%
+                                                                  1%
+                                                                         19%
+
+                                                       41%
+
+                                                                        36%
+
+                                                                                                  Ne se prononce pas (non
+                     Oui tout à fait       Oui plutôt        Non plutôt pas      Non pas du tout
+                                                                                                        suggéré)
+
+                                                                  26
+
+--- page 27 ---
+
+Les   entreprises       comme      pilier  pour    répondre      aux   grands     défis   sociaux     et
+
+    environnementaux
+
+    Selon eux, le ou la futur.e Président.e de la République devra davantage considérer les entreprises pour répondre aux grands défis sociaux et
+    environnementaux qui se poseront.
+
+    Q16. Selon vous, le ou la futur.e Président.e de la République devra-t-il davantage s’appuyer sur les entreprises pour répondre aux grands défis sociaux et
+
+    environnementaux du pays ?
+    Base : à tous
+                                %  Non :                                                      % OUI :
+
+                                  15%                                                          85%
+
+                                                                4%
+                                                            11%
+
+                                                                            56%
+                                                       29%
+
+                                                                    Non, le niveau actuel est Non, les entreprises
+                             Oui, beaucoup plus    Oui, un peu plus
+                                                                         suffisant     prennent déjà trop de place
+
+                                                                  27
+
+--- page 28 ---
+
+Priorités    du  prochain      quinquennat        en  matière      d’engagement         des   entreprises
+
+     Les priorités du prochain quinquennat en matière d’engagement devraient surtout se focaliser sur la jeunesse et la formation selon eux.
+
+    Q17. Parmi les sujets suivants, lesquels devront constituer les priorités du prochain quinquennat en matière d’engagement des entreprises ?
+    Base : A tous
+
+                                    La jeunesse et la formation                          52%
+
+                              La qualité de vie et le sens au travail             43%
+
+                                      La transition écologique             31%
+
+                                      Le soutien aux territoires       25%
+
+                               L’inclusion et l’égalité des chances  23%
+
+                            L’accès à l’emploi des publics éloignés 15%
+
+                                                      Ne se prononce pas (non suggéré) : 1%
+                         Total supérieur à 100% car deux réponses étaient possibles 28
+
+--- page 29 ---
+
+Partie            5.
+
+     La   dimension           locale      reste     un    point     d’attention
+
+     important          pour     les   entreprises,           même        si  elles
+
+     l’expriment           un   peu     moins      que     l’an   dernier.
+
+                                                                  29
+
+--- page 30 ---
+
+Opinion    à  l’égard    du  rôle  de   l’intégration     de  la  dimension      territoriale     dans
+
+     l’engagement
+
+     Même si c’est moins affirmé que l’an dernier, la très large majorité des dirigeants estime toujours que la dimension territoriale devrait occuper une
+     place centrale dans les engagements des entreprises.
+
+     Q18. Selon vous, les entreprises devraient-elles davantage intégrer la dimension territoriale dans leur engagement (privilégier des prestataires locaux, favoriser
+     l’emploi local…) ?
+     Base : à tous
+
+                                  %  Non :                                                  % OUI :
+
+                                    13%                                                      87%
+
+                                                               5%
+                                                           8%                            Rappel 2025 : 97%
+
+                                                                          41%
+
+                                                                      Rappel 2025 : 69%
+
+                                                        46%
+
+                              Oui, tout à fait     Oui, plutôt        Non, plutôt pas     Non, pas du tout
+
+                                                                  30
+
+--- page 31 ---
+
+Bénéfices      vis-à-vis     du  rapprochement           entre   entreprises       et  territoires
+
+     Comme en 2025, le soutien à l’emploi et à l’économie locale constitue de loin le premier bénéfice associé au rapprochement avec les territoires,
+
+     devant la réduction de l’empreinte carbone. Parmi les bénéfices considérés comme plus secondaires, on retrouve les relations avec les pouvoirs
+     publics et la capacité d’innovation, même si ce dernier point progresse.
+
+     Q19. Concernant le rapprochement entre entreprises et territoires, quels sont parmi les bénéfices potentiels suivants ceux qui paraissent les plus importants ?
+     Base : A tous
+                                                                                                       2025
+     Base : A tous - Trois réponses possibles
+                       Le soutien à l’emploi, à l’économie locale                       56%            53%
+
+                          La réduction de l’empreinte carbone               39%                        39%
+
+                            L’amélioration de la compétitivité         32%                             26%
+
+                           La réduction des coûts logistiques          31%                             32%
+
+                 Une plus grande proximité avec les interlocuteurs 26%                                 31%
+
+      Le développement de partenariats avec des associations locales 26%                               27%
+
+          Le développement d’un réseau de partenaires, prestataires 24%                                27%
+
+                         Une plus grande capacité d’innovation   23%                                   14%
+
+                Des relations privilégiées avec les pouvoirs publics 17%                               18%
+
+                         Total supérieur à 100% car trois réponses étaient possibles 31
+
+--- page 32 ---
+
+Partie            6.
+
+     Focus       sur    le  dispositif        «  Les    entreprises
+
+     s’engagent           »
+
+                                                                  32
+
+--- page 33 ---
+
+Principaux      apports     attendus      d’un   dispositif     d’engagement
+
+    Pour les dirigeants, les apports d’un tel dispositif sont multiples. Il permet surtout de favoriser le dialogue entre les entreprises et l’Etat, de
+
+    simplifier les dispositifs et d’informer sur les moyens d’agir et de s’engager.
+
+    Q13. Selon vous, quel est le principal apport de ce dispositif ?
+    Base : A tous
+
+                Simplifier les dispositifs existants pour les rendre accessibles 20% 35%
+
+                        Favoriser le dialogue entre les entreprises et l’Etat 17% 35%
+
+                           Informer sur les moyens d’agir et de s’engager 20% 34%
+
+                Améliorer l’impact social et environnemental des entreprises 14% 31%
+
+                                    Bénéficier de soutiens financiers 12% 24%
+
+                                  Valoriser les engagements déjà pris 8% 19%
+
+                             Renforcer la compétitivité des entreprises 8% 16%
+
+  Ne se prononce pas (non suggéré) : 1%                       En premier   Au total
+
+                         Total supérieur à 100% car deux réponses étaient possibles 33
+
+--- page 34 ---
+
+ANNEXES
+
+                                                                  34
+
+--- page 35 ---
+
+NOS       ENGAGEMENTS
+
+     CODES    PROFESSIONNELS,         CERTIFICATION      QUALITÉ    CONSERVATION        ET  PROTECTION      DES   DONNÉES
+
+    Ipsos estmembredes organismesprofessionnelsfrançais et européensdes études de Ipsos France est certifiée ISO 20252 :
+
+    marchéet d’opinionsuivants:                                                   Market Research - version 2019
+                                                                                  par AFNOR CERTIFICATION
+     •   SYNTEC(syndicatprofessionneldes sociétés d’étudesde marchéenfrance;
+         www.Syntec-etudes.Com)
+                                                                         Ce document est élaboré dans le respect de ces codes et normes
+     •   ESOMAR(European Society for Opinion and Market Research, www.Esomar.Org) internationales.
+
+     Ipsos France s’engage à appliquer le code ICC/Esomar des études de marché et d’opinion. Ce code définit les règles déontologiques des professionnels des
+     études de marché et établit les mesures de protection dont bénéficient les personnes interrogées.
+
+            Ipsos s’engage à respecter les lois applicables. Ipsos a désigné un Data Protection Officer et a mis place un plan de conformité au Règlement Général sur
+            la Protection des Données (Règlement (UE) 2016/679). Pour plus d’informations sur notre politique en matière de protection des données personnelles :
+
+            https://www.ipsos.com/fr-fr/confidentialite-et-protection-des-donnees-personnelles
+
+     A ce titre, la durée de conservation des données personnelles des personnes interviewées dans le cadre d’une étude est, à moins d’un engagement contractuel
+     spécifique :
+
+     de 12 mois suivant la date de fin d’une étude Ad Hoc .
+
+     de 36 mois suivant la date de fin de chaque vague d’une étude récurrente.
+
+                                                                  35
+
+--- page 36 ---
+
+À   PROPOS       D’IPSOS                               GAME      CHANGERS
+
+         Ipsos est l’un des leaders mondiaux des études de marché et des Dans un monde qui évolue rapidement, s’appuyer sur des
+         sondages d’opinion, présent dans 90 marchés et comptant près données fiables pour prendre les bonnes décisions n’a jamais été
+
+         de 20 000 collaborateurs.                              aussi important.
+         Nos chercheurs, analystes et scientifiques sont passionnément
+         curieux et ont développé des capacités multi-spécialistes qui Chez Ipsos, nous sommes convaincus que nos clients cherchent
+         permettent de fournir des informations et des analyses poussées plus qu’un simple fournisseur de données. Ils ont besoin d’un
+         sur les actions, les opinions et les motivations des citoyens, des véritable partenaire qui leur procure des informations précises et
+         consommateurs, des patients, des clients et des employés. pertinentes, et les transforme en connaissances pour leur
+                                                                permettre de passer à l’action.
+         Nos 75 solutions s’appuient sur des données primaires provenant
+         de nos enquêtes, de notre suivi des réseaux sociaux et de Voilà pourquoi nos experts, curieux et passionnés, délivrent les
+
+         techniques qualitatives ou observationnelles.          mesures les plus exactes pour en extraire l’information qui
+                                                                permettra d’avoir une vraie compréhension de la Société, des
+         Notre signature « Game Changers » résume bien notre ambition Marchés et des Individus.
+         d’aider nos 5 000 clients à évoluer avec confiance dans un monde
+         en rapide évolution.                                   Nous mêlons notre savoir-faire au meilleur des sciences et de la
+                                                                technologie, et appliquons nos quatre principes de sécurité,
+         Créé en France en 1975, Ipsos est coté à l’Euronext Paris depuis le simplicité, rapidité et de substance à tout ce que nous
+         1er juillet 1999. L’entreprise fait partie des indices SBF 120 et Mid- produisons.
+         60 et est éligible au service de règlement différé (SRD). Pour permettre à nos clients d’agir avec plus de rapidité,
+                                                                d’ingéniosité et d’audace.
+
+         ISIN code FR0000073298, Reuters ISOS.PA, Bloomberg IPS:FP
+         www.ipsos.com                                          La clef du succès se résume par une vérité simple :
+                                                                You act better whenyou are sure.
