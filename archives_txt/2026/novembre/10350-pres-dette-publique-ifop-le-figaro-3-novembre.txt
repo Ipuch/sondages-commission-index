@@ -1,0 +1,654 @@
+# notice commission des sondages
+# source_pdf: archives/2026/novembre/10350-pres-dette-publique-ifop-le-figaro-3-novembre.pdf
+# extraction: pdfplumber (layout=True)
+
+--- page 1 ---
+
+Les  Français    et la dette  publique
+
+                                                      Notice  technique
+
+           FD N° 122 830
+           Contact Ifop:
+           Frédéric Dabi
+           Département Opinion et Stratégies d'Entreprise
+           TEL : 01 45 84 14 44
+           prenom.nom@ifop.com
+           NOVEMBRE 2026
+
+--- page 2 ---
+
+Méthodologie
+
+        Ce document présente les résultats d’une étude réalisée par l’Ifop. Elle respecte fidèlement
+        les principes scientifiques et déontologiques de l’enquête par sondage. Les enseignements
+        qu’elle indique reflètent un état de l’opinion à l’instant de sa réalisation et non pas une
+        prédiction.
+
+        Aucune publication totale ou partielle ne peut être faite sans l’accord exprès de l’Ifop.
+
+         Ifop pour Vae Solis en partenariat avec Le Figaro
+
+             Echantillon
+                            L’enquête a été menée auprès d’un échantillon de 1 500 personnes
+                            représentatif de la population française âgée de 18 ans et plus.
+
+            Méthodologie
+                            La représentativité de l’échantillon a été assurée par la méthode des
+                            quotas (sexe, âge, profession de la personne interrogée) après
+
+                            stratification par région et catégorie d'agglomération.
+
+            Mode de recueil
+
+                            Les interviews ont été réalisées par questionnaire auto-administré en ligne
+                            du 27 au 28 octobre 2026.
+
+        Conditions d’interrogation : Les questions ont été placées à la suite des questions permettant d’établir les
+        quotas.
+        Tout interviewé ayant complété un questionnaire a obtenu des points cumulables pour une valeur inférieure à
+        1 euro. L’enquête a fait l’objet d’un redressement sociodémographique (données INSEE 2020) et d’un
+        redressement politique sur la base de la reconstitution des votes suivants : présidentielle 2022 1er tour,
+        législatives 2024 1er tour.
+
+        NOTICE TECHNIQUE : Ifop                                           2
+
+        Les Français et la dette publique  Novembre 2026
+
+--- page 3 ---
+
+Précision  relative  aux  marges   d’erreur
+
+        La théorie statistique permet de mesurer l’incertitude à attacher à chaque résultat
+        d’une enquête. Cette incertitude s’exprime par un intervalle de confiance situé de part
+        et d’autre de la valeur observée et dans lequel la vraie valeur a une probabilité
+
+        déterminée de se trouver. Cette incertitude, communément appelée « marge
+        d’erreur », varie en fonction de la taille de l’échantillon et du pourcentage observé
+        comme le montre le tableau ci-dessous :
+
+                  INTERVALLE  DE CONFIANCE    A 95% DE CHANCE
+                  Si le pourcentage trouvé est…
+
+          Taille de 5 ou 95% 10 ou 90% 20 ou 80% 30 ou 70% 40 ou 60% 50%
+         l’échantillon
+            100      4,4       6,0      8,0      9,2       9,8      10,0
+            200      3,1       4,2      5,7      6,5       6,9      7,1
+            300      2,5       3,5      4,6      5,3       5,7      5,8
+            400      2,2       3,0      4,0      4,6       4,9      5,0
+            500      1,9       2,7      3,6      4,1       4,4      4,5
+            600      1,8       2,4      3,3      3,7       4,0      4,1
+            700      1,6       2,3      3,0      3,5       3,7      3,8
+
+            800      1,5       2,1      2,8      3,2       3,5      3,5
+            900      1,4       2,0      2,6      3,0       3,2      3,3
+           1 000     1,4       1,8      2,5      2,8       3,0      3,1
+           1 100     1,3       1,8      2,4      2,7       2,9      3,0
+           1 200     1,2       1,7      2,3      2,6       2,8      2,8
+           1 300     1,2       1,6      2,2      2,5       2,7      2,7
+           1 400     1,1       1,6      2,1      2,4       2,6      2,6
+           1 500     1,1       1,5      2,0      2,3       2,4      2,5
+           2 000     1,0       1,3      1,8      2,0       2,2      2,2
+           3 000     0,8       1,1      1,4      1,6       1,8      1,8
+
+        Exemple de lecture du tableau : dans le cas d’un échantillon de 1 500 personnes, si le pourcentage mesuré
+        est de 10%, la marge d’erreur est égale à 1,5. Le vrai pourcentage est donc compris entre 8,5% et 11,5%.
+
+        NOTICE TECHNIQUE : Ifop                                           3
+
+        Les Français et la dette publique  Novembre 2026
+
+--- page 4 ---
+
+Structure  de l’échantillon
+
+                                                       Brut      Redressé
+                                                       (%)         (%)
+
+         SEXE DE L'INTERVIEWÉ(E)
+          Homme                                        47,3       47,7
+          Femme                                        52,7       52,3
+         AGE DE L'INTERVIEWÉ(E)
+
+           De18a24ans                                  12,8       10,3
+           De25a34ans                                  12,4       14,8
+           De35a49ans                                  25,9       24,0
+           De50a64ans                                  22,7       24,4
+           De65a74ans                                  13,6       14,0
+
+           A75ansetplus                                12,6       12,5
+         PROFESSION DE L'INTERVIEWÉ(E)
+           Agriculteurs                                1,8         0,7
+           Artisans                                    5,1         3,8
+           Cadres                                      10,5       11,2
+
+           Intermediaires                              13,9       15,0
+           Employes                                    17,4       15,8
+           Ouvriers                                    11,9       12,1
+           Inactifs                                    39,4       41,3
+
+         CATEGORIE D’AGGLOMERATION
+           Commune rurale                              22,3       21,1
+           Unité urbaine de 2 000 à 19 999 hab.        16,6       18,2
+           Unité urbaine de 20 000 à 99 999 hab.       14,5       13,9
+           Unité urbaine de 100 000 à 199 999 hab.     31,7       30,6
+
+           Agglomération parisienne                    14,9       16,3
+         REGION
+          Grand-Est                                    10,8        8,5
+          Nouvelle-Aquitaine                           8,3         9,5
+          Auvergne-Rhône-Alpes                         14,2       12,3
+
+          Bourgogne-Franche-Comté                      2,1         4,3
+          Bretagne                                     5,9         5,2
+          Centre-Val-De-Loire                          5,5         3,9
+          Ile-De-France                                19,4       18,4
+          Occitanie                                    7,4         9,4
+
+          Hauts-de-France                              8,5         8,9
+          Normandie                                    2,7         5,1
+          Pays de la Loire                             7,5         5,8
+          PACA, Corse                                  7,7         8,5
+
+         TOTAL                                        100,0       100,0
+
+         * En raison des arrondis, les totaux sont susceptibles d’être supérieurs ou inférieurs à 100 de 0,1 point.
+
+        NOTICE TECHNIQUE : Ifop                                           4
+
+        Les Français et la dette publique  Novembre 2026
+
+--- page 5 ---
+
+Reconstitution    du 1er  tour de  l’élection présidentielle
+
+                                      2022
+
+                                                      Brut       Redressé
+                                                       (%)        (%)
+
+         • Nathalie Arthaud ......................................................................... 0,8 0,6
+         • Philippe Poutou ........................................................................... 1,4 0,8
+
+         • Fabien Roussel ............................................................................. 3,9 2,3
+
+         • Jean-Luc Mélenchon .................................................................... 15,2 21,5
+         • Anne Hidalgo................................................................................ 1,8 1,7
+
+         • Yannick Jadot ............................................................................... 5,3 4,6
+         • Emmanuel Macron ...................................................................... 28,9 27,8
+
+         • Valérie Pécresse ........................................................................... 5,7 4,8
+
+         • Nicolas Dupont-Aignan ................................................................ 3,9 2,1
+         • Marine Le Pen .............................................................................. 25,6 23,5
+
+         • Éric Zemmour............................................................................... 5,1 7,1
+         • Jean Lassalle ................................................................................. 2,4 3,2
+
+           TOTAL ......................................................................................... 100 100
+
+            - Ne se prononcent pas ......................................................... 25,3
+
+         * En raison des arrondis, les totaux sont susceptibles d’être supérieurs ou inférieurs à 100 de 0,1 point.
+
+        NOTICE TECHNIQUE : Ifop                                           5
+
+        Les Français et la dette publique  Novembre 2026
+
+--- page 6 ---
+
+Reconstitution   du  1er tour des  élections législatives  2024
+
+                                                      Brut       Redressé
+
+                                                       (%)         (%)
+           Extrême gauche                              2,4         1,2
+
+           NFP                                        26,7        28,7
+
+           Divers gauche                               1,1         1,0
+           ENS Ensemble !                             21,1        22,4
+
+           Divers centre                               2,1         0,8
+           LR & DVD                                    8,6         9,5
+
+           RN & alliés                                32,7        34,0
+
+           Droite souverainiste, divers EXD - Reconquête 2,8       1,1
+           DIVERS                                      2,5         1,3
+
+         TOTAL                                        100,0       100,0
+          Ne se prononcent pas                        32,3
+
+         * En raison des arrondis, les totaux sont susceptibles d’être supérieurs ou inférieurs à 100 de 0,1 point.
+
+        NOTICE TECHNIQUE : Ifop                                           6
+
+        Les Français et la dette publique  Novembre 2026
+
+--- page 7 ---
+
+Les thèmes    économiques     prioritaires pour  les prochains
+
+                                      mois
+
+        Question    : Pour les mois qui viennent, pour chacun des thèmes suivants
+                    diriez-vous qu’il est tout à fait prioritaire, important ou secondaire ?
+
+         Base : ensemble
+                                 Tout à fait prioritaire Important Secondaire
+
+                                  Brut  Redressé Brut Redressé Brut Redressé
+
+                                  (%)    (%)    (%)    (%)    (%)    (%)
+
+         • La lutte contre le chômage 36,7 37,2 55,5   54,5   7,9    8,2
+
+         • Le relèvement des salaires et du
+                                  59,1   61,9   37,5   34,4   3,4    3,6
+          pouvoir d’achat
+         • La maîtrise du niveau des impôts 39,4 38,0 53,1 54,0 7,5  8,0
+
+         • La réduction de la dette publique 52,5 50,4 38,5 39,3 9,0 10,3
+
+         • La sauvegarde des services publics 42,1 42,7 49,1 48,1 8,8 9,2
+
+        NOTICE TECHNIQUE : Ifop                                           7
+
+        Les Français et la dette publique  Novembre 2026
+
+--- page 8 ---
+
+La connaissance    des deux  principaux   postes  de  dépenses
+
+                                    de  l’État
+
+        Question    : D’après vous, quels sont, parmi les postes suivants, ceux qui
+                    représentent les dépenses les plus importantes pour l’État ? En
+                    premier ? Et en second ?
+
+        Base : ensemble
+                                            En premier        En second
+
+                                         Brut    Redressé  Brut    Redressé
+
+                                          (%)      (%)      (%)      (%)
+
+        • La santé                       17,0     17,2     23,3     24,5
+
+        • La défense                     14,5     13,0     18,5     17,8
+
+        • Les retraites                  16,3     16,5     17,8     16,4
+
+        • L'éducation                     9,5      9,4     16,7     16,3
+
+        • La recherche et l'innovation    1,9      2,7      5,9      6,3
+
+        • Le paiement des intérêts de la dette 40,8 41,2   17,8     18,7
+
+        (*) Total supérieur à 100, les interviewés ayant pu donner plusieurs réponses.
+
+        NOTICE TECHNIQUE : Ifop                                           8
+
+        Les Français et la dette publique  Novembre 2026
+
+--- page 9 ---
+
+L'adhésion   à différentes  affirmations   concernant   le déficit
+
+                               public  et la dette
+
+        Question    : Vous personnellement, en pensant au déficit public et à la dette de
+                    l’État, êtes-vous d’accord ou pas d’accord avec chacune des
+                    affirmations suivantes ? Le déficit public et la dette de l’État…
+
+         Base : ensemble
+                         Tout à fait d’accord Plutôt d’accord Plutôt pas d’accord Pas du tout d’accord
+
+                          Brut Redressé Brut Redressé Brut Redressé Brut Redressé
+
+                          (%)    (%)   (%)   (%)   (%)   (%)   (%)   (%)
+
+         • Ont un effet sur votre vie
+                          38,5  38,2  44,9  45,2   13,6  13,3  3,0   3,4
+          quotidienne
+         • Sont une menace très
+          forte pour l’avenir de la 55,5 55,4 36,8 36,8 5,9 5,7 1,8  2,0
+          France
+         • Sont le signe du déclin de
+                          48,7  49,9  39,1  38,1   10,2  9,4   2,0   2,6
+          la France
+
+        NOTICE TECHNIQUE : Ifop                                           9
+
+        Les Français et la dette publique  Novembre 2026
+
+--- page 10 ---
+
+La connaissance    du  montant   du  déficit de l’État en 2026
+
+        Question    : Selon vous, en 2026, combien représente le déficit de l’État par
+                    rapport à ses recettes, c’est-à-dire la part des dépenses en trop par
+
+                    rapport à ses recettes (ce dont il dispose) ?
+
+         Base : ensemble
+                                                      Brut       Redressé
+
+                                                       (%)        (%)
+
+         • 5%                                         12,2        11,3
+
+         • 10%                                        18,2        18,1
+
+         • 20%                                        26,0        26,2
+
+         • 30%                                        22,2        21,7
+
+         • 40%                                        21,3        22,6
+
+                                              TOTAL    100        100
+
+        NOTICE TECHNIQUE : Ifop                                           10
+
+        Les Français et la dette publique  Novembre 2026
+
+--- page 11 ---
+
+Le niveau  des  prélèvements    en  France  comparé    à la
+
+                            moyenne     européenne
+
+        Question    : D’après vous, le niveau des prélèvements (impôts et cotisations
+                    sociales) en France est-il plus élevé, moins élevé ou au même niveau
+                    qu’en Europe ?
+
+         Base : ensemble
+                                                      Brut       Redressé
+
+                                                       (%)        (%)
+
+         • Plus élevé                                 82,3        83,5
+
+         • Moins élevé                                 7,2         6,3
+
+         • Au même niveau                             10,5        10,2
+
+                                              TOTAL    100        100
+
+        NOTICE TECHNIQUE : Ifop                                           11
+
+        Les Français et la dette publique  Novembre 2026
+
+--- page 12 ---
+
+L’arbitrage  entre baisse  des  dépenses   et hausse   des
+
+                                     impôts
+
+        Question    : Face aux déficits de l’État, quelle solution faut-il selon vous
+                    privilégier ?
+
+         Base : ensemble
+                                                      Brut       Redressé
+                                                       (%)        (%)
+
+         • Baisser les dépenses de l’État             91,3        91,4
+
+         • Augmenter les impôts                        8,7         8,6
+
+                                              TOTAL    100        100
+
+        NOTICE TECHNIQUE : Ifop                                           12
+
+        Les Français et la dette publique  Novembre 2026
+
+--- page 13 ---
+
+La disposition   à faire des efforts pour  redresser   les
+
+                               comptes    du pays
+
+        Question    : Vous personnellement, êtes-vous prêt à faire des efforts pour
+                    redresser les comptes du pays ?
+
+         Base : ensemble
+                                                      Brut       Redressé
+                                                       (%)        (%)
+
+         • Oui, tout à fait                            8,2         8,3
+
+         • Oui, plutôt                                37,3        35,4
+
+         • Non, plutôt pas                            34,7        35,5
+
+         • Non, pas du tout                           19,8        20,9
+
+                                              TOTAL    100        100
+
+        NOTICE TECHNIQUE : Ifop                                           13
+
+        Les Français et la dette publique  Novembre 2026
+
+--- page 14 ---
+
+La crainte  d’un scénario   similaire à celui de la Grèce  en
+
+                                     France
+
+        Question    : Selon vous, est-ce que la France pourrait connaître dans les
+                    prochains mois ou les prochaines années un scénario similaire à celui
+                    de la Grèce, marqué par une crise de la dette et une forte austérité
+
+                    budgétaire ?
+
+         Base : ensemble
+                                                      Brut       Redressé
+
+                                                       (%)        (%)
+
+         • Oui, certainement                          20,5        21,7
+
+         • Oui, probablement                          56,6        56,0
+
+         • Non, probablement pas                      19,0        18,2
+
+         • Non, certainement pas                       3,9         4,1
+
+                                              TOTAL    100        100
+
+        NOTICE TECHNIQUE : Ifop                                           14
+
+        Les Français et la dette publique  Novembre 2026
+
+--- page 15 ---
+
+Les domaines    où  réaliser des  économies
+
+        Question    : Si des économies importantes devaient être réalisées dans les
+                    dépenses publiques, quels sont les trois domaines dans lesquels il
+
+                    serait selon vous le plus acceptable de réduire les moyens ? Trois
+                    réponses maximum.
+
+         Base : ensemble
+                                                      Brut       Redressé
+                                                       (%)        (%)
+
+         • La santé                                    5,6         5,3
+
+         • Les retraites                               9,7         8,6
+
+         • L’éducation et l’enseignement supérieur     4,6         4,4
+
+         • La sécurité                                 7,6         7,9
+
+         • La justice                                  7,1         6,9
+
+         • La défense                                 21,9        22,8
+
+         • Les aides sociales et la lutte contre la pauvreté 31,9 30,0
+
+         • Les politiques familiales                  33,3        30,9
+
+         • Le logement                                 6,1         6,2
+
+         • Les transports                             10,8        11,2
+
+         • La transition écologique et l’environnement 29,7       28,9
+
+         • Les aides aux entreprises et à l’économie  33,0        30,5
+
+         • Les collectivités locales et les services publics de proximité 18,2 18,5
+
+         • La culture et les loisirs                  35,4        37,6
+
+        (*) Total supérieur à 100, les interviewés ayant pu donner plusieurs réponses.
+
+        NOTICE TECHNIQUE : Ifop                                           15
+
+        Les Français et la dette publique  Novembre 2026
+
+--- page 16 ---
+
+Les  leviers de réduction   des  déficits sociaux  en France
+
+        Question    : Parmi les mesures suivantes, quelle est celle selon vous qu’il
+                    faudrait prendre en priorité pour réduire les déficits sociaux en
+
+                    France ?
+
+         Base : ensemble
+                                                      Brut       Redressé
+
+                                                       (%)        (%)
+
+         • Remettre en cause le principe d’universalité des prestations maladie
+          et d’allocations familiales (le fait que tout le monde puisse les 27,8 27,0
+          toucher, quels que soient les revenus)
+
+         • Réduire le montant des prestations sociales 26,7       25,4
+
+         • Trouver de nouveaux modes de financement (TVA sociale) 18,1 19,4
+
+         • Augmenter la durée minimale de cotisations et l’âge légal de la
+                                                      11,6        12,1
+          retraite à taux plein
+         • Augmenter les prélèvements                  4,2         4,3
+
+         • Augmenter le temps de travail              11,6        11,7
+
+                                              TOTAL    100        100
+
+        NOTICE TECHNIQUE : Ifop                                           16
+
+        Les Français et la dette publique  Novembre 2026
+
+--- page 17 ---
+
+La  dette publique   et le choix  électoral
+
+        Question    : Dans quelle mesure les propositions des candidats concernant la
+                    réduction des déficits et de la dette publique seront-elles importantes
+
+                    dans votre choix de vote lors de l’élection présidentielle de 2027 ?
+
+         Base : Personnes inscrites sur les listes électorales.
+                                                      Brut       Redressé
+
+                                                       (%)        (%)
+
+         • Tout à fait importantes                    37,6        35,2
+
+         • Plutôt importantes                         51,8        53,6
+
+         • Plutôt pas importantes                      8,1         8,1
+
+         • Pas du tout importantes                     2,5         3,1
+
+                                              TOTAL    100        100
+
+        NOTICE TECHNIQUE : Ifop                                           17
+
+        Les Français et la dette publique  Novembre 2026
+
+--- page 18 ---
+
+La confiance   accordée   à différentes  personnalités
+
+                  politiques  pour  réduire  la dette publique
+
+        Question    : Pour chacune des personnalités politiques suivantes, diriez-vous
+                    que vous lui faites confiance ou pas confiance pour réduire la dette
+                    publique de la France si elle gagnait l’élection présidentielle de 2027 ?
+
+        Base : ensemble
+                                      Tout à fait confiance Plutôt confiance
+
+                                     Brut     Redressé    Brut     Redressé
+
+                                      (%)       (%)       (%)       (%)
+
+        • Jean-Luc Mélenchon          6,3       7,1       10,0      10,6
+
+        • Fabien Roussel              1,5       2,1       12,5      13,1
+
+        • Marine Tondelier            1,6       2,1       10,2      10,2
+
+        • Raphaël Glucksmann          3,9       3,9       20,4      20,1
+
+        • François Hollande           2,8       3,1       16,7      17,1
+
+        • Gabriel Attal               2,6       3,0       22,8      21,8
+
+        • Édouard Philippe            4,6       4,5       25,8      24,6
+
+        • Bruno Retailleau            4,8       4,2       23,3      23,3
+
+        • Dominique de Villepin       2,8       2,8       17,9      19,2
+
+        • David Lisnard               7,4       7,8       18,8      17,1
+
+        • Nicolas Dupont-Aignan       3,2       3,6       15,3      14,4
+
+        • Marine Le Pen              20,1       19,6      21,7      21,2
+
+        • Éric Zemmour                4,4       5,8       14,3      13,9
+
+        NOTICE TECHNIQUE : Ifop                                           18
+
+        Les Français et la dette publique  Novembre 2026
+
+--- page 19 ---
+
+Regards  sur  la proposition  de  Jean-Luc  Mélenchon     de
+
+                       geler la dette publique   française
+
+        Question    : Jean-Luc Mélenchon, candidat de La France insoumise à l’élection
+                    présidentielle, propose de demander à la Banque centrale européenne
+                    (BCE) de geler la part de la dette publique française qu’elle détient, qui
+
+                    représente près d’un cinquième de la dette (environ 600 milliards
+                    d’euros). Cette dette serait transformée en « dette perpétuelle à taux
+                    zéro » : la France ne verserait plus d’intérêts et n’aurait plus à la
+
+                    rembourser à une date fixée. Diriez-vous de cette proposition qu’elle
+                    est… ?
+
+         Base : ensemble
+                                                      Brut       Redressé
+                                                       (%)        (%)
+
+         • Une proposition crédible                   14,2        16,4
+
+         • Une proposition peu réaliste mais qui a le mérite d’ouvrir le débat 38,3 37,5
+
+         • Une proposition irréaliste                 47,5        46,1
+
+                                              TOTAL    100        100
+
+        NOTICE TECHNIQUE : Ifop                                           19
+
+        Les Français et la dette publique  Novembre 2026
