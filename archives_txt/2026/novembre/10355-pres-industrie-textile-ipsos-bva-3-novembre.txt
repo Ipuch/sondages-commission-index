@@ -1,0 +1,659 @@
+# notice commission des sondages
+# source_pdf: archives/2026/novembre/10355-pres-industrie-textile-ipsos-bva-3-novembre.pdf
+# extraction: pdfplumber (layout=True)
+
+--- page 1 ---
+
+•  05    novembre          2026
+
+                                NOTICE               TECHNIQUE
+
+                                Sondage    d’opinion  « Les  Français   et l’impact
+                                de la filière textile et chaussures    »
+
+                                Ipsos  bva  Refashion   – Novembre     2026
+
+--- page 2 ---
+
+ARTICLE      2 –  INFORMATIONS           GENERALES
+
+    ▪ Organisme    ayant  réalisé  le sondage              IPSOS  bva
+
+    ▪ Commanditaires      du sondage                       Refashion
+
+                                                           1000  personnes,    constituant   un  échantillon  national
+
+    ▪ Nombre    de personnes    interrogées                représentatif   de  la population  française,   âgée  de  18 ans  et
+
+                                                           plus.
+
+    ▪ Dates  de réalisation   des  interviews              Du 02  au 05  octobre   2026
+
+    ▪ Date  de diffusion  prévue                           Mardi  3 novembre,    12h00   heures
+
+    ▪ Questionnaire                                        Présenté   intégralement     dans  le rapport  d’étude  ci-après
+
+--- page 3 ---
+
+ARTICLE      3 – INFORMATIONS            GENERALES
+
+                                                     Les Français et l’impact de la filière textile et chaussures - Ipsos bva pour
+     ▪ Objet du sondage
+                                                     Refashion
+
+                                                     1000 personnes,  constituant un échantillon national représentatif de la
+                                                     population française, âgée de 18 ans et plus.
+     ▪ Echantillon interrogé
+                                                     Méthode  des quotas : sexe, âge, profession de la personne interrogée,
+
+                                                     catégorie d’agglomération, région.
+
+     ▪ Mode de recueil                               Échantillon interrogé par Internet via l’Access Panel Online d’Ipsos
+
+                                                     Le taux de non-réponse  (lorsqu’il est supérieur à 0) est présenté pour chaque
+     ▪ Taux de non-réponse
+                                                     question dans le rapport ci-après.
+
+                                                     Chaque  répondant  a obtenu des points cumulables pour une valeur inférieure à 1
+     ▪ Gratification des personnes interrogées
+                                                     euro.
+
+                                                     Le redressement  a été effectué à partir de la structure sociodémographique de
+
+                                                     la population française âgée de 18 ans et plus (sexe, âge, catégorie
+     ▪ Critères de redressement
+                                                     socioprofessionnelle de la personne interrogée, région et catégorie
+                                                     d’agglomération).
+
+--- page 4 ---
+
+LES       FRANÇAIS                    ET     L’IMPACT
+
+                DE      LA     FILIÈRE            TEXTILE              ET     CHAUSSURES
+
+                                                         Octobre     2026
+
+--- page 5 ---
+
+Méthodologie
+
+            ▪ Cible  et  taille de   l'échantillon:    1000   personnes,
+
+              constituant     un  échantillon     national    représentatif     de
+
+              la population     française,     âgée   de   18 ans   et plus.
+
+            ▪ Dates   de   terrain:  du   2 au  5  octobre    2026
+
+            ▪ Mode    de  recueil:   online   sur  panel    IIS
+
+            ▪ Méthode     des   quotas     avec   les  critères   suivants    : sexe,
+
+              âge   catégorie     socio-économique           de  l'individu,
+
+              région   et  catégorie     d’agglomération
+
+--- page 6 ---
+
+Si   l’urgence          écologique             fait
+
+                                                                  globalement                consensus,
+
+                                                                  les    moyens           d’agir      divisent
+
+                                                                  les    Français
+
+--- page 7 ---
+
+Face      aux     enjeux        environnementaux                      et   climatiques,             les
+
+          Français         font     part     d’un      fort    sentiment            d’inquiétude              et
+
+          d’impuissance
+
+           Question : Quand vous pensez aux enjeux environnementaux et climatiques, parmi les sentiments suivants quels sont ceux qui
+           correspondent le mieux à votre état d’esprit actuel ?
+           Base : A tous (n=1000) – Total supérieur à 100% car plusieurs réponses possibles
+
+                                                                                             88%
+                 L'inquiétude                               64
+
+                                                                                          citent au moins un
+
+                                                                                           sentiment négatif
+                                                     45
+                L'impuissance
+                                                                                   96% parmi les femmes de moins 35 ans
+                                                                                   contre 90% des hommes du même âge
+
+            La  volonté   d'agir              28
+
+                                                                                           56%
+                                                                                  …  dont          ne citent  que
+                     La  colère               27
+                                                                                  des  sentiments    négatifs
+
+--- page 8 ---
+
+Le   niveau        de    préoccupation                 face      à  ces     enjeux        a
+
+          augmenté             au    cours       des     5   dernières          années
+
+           Question : Au cours des 5 dernières années, vous diriez que votre niveau de préoccupation face aux enjeux environnementaux
+           et climatiques…
+           Base : A tous (n=1000)
+
+                                                                            A fortement augmenté                28
+                74%
+
+                                                                                A plutôt augmenté                      46
+
+                Des   Français     déclarent     que   leur                                                   23
+                                                                                   Est resté stable
+                niveau    de   préoccupation        face
+
+                aux   enjeux    environnementaux          et
+                                                                                                     2
+                                                                                  A plutôt diminué
+                climatiques      a  augmenté       au  cours
+                des   5  dernières    années
+                                                                                                     1
+                                                                              A fortement diminué
+
+--- page 9 ---
+
+Dans      ce    cadre,        une     grande         partie       des     Français          s’accorde
+
+          pour      dire    que      les   enjeux        environnementaux                      et   climatiques
+
+          doivent        s’imposer            dans      le   débat        et  l’action        publique
+
+           Question : Selon vous, les enjeux environnementaux et climatiques doivent-ils faire partie des sujets incontournables pour tous
+           les candidats à l’élection présidentielle de 2027 ?
+           Base : A tous (n=1000)
+
+                87%                                                      75%
+
+                Des   Français     déclarent     que   les               Déclarent     que   ces   enjeux   doivent
+
+                enjeux    environnementaux           et                  être  une   priorité   majeure      (24%)
+
+                climatiques      doivent    faire  partie                ou  importante       (51%)   pour    le
+                des   sujets   incontournables         pour              prochain     quinquennat
+
+                tous   les  candidats      à l’élection
+
+                présidentielle      de   2027
+
+--- page 10 ---
+
+Entre      pouvoir         d’achat         et   écologie,          les   Français          se
+
+          montrent           néanmoins               très    partagés
+
+           Question : De laquelle des 2 propositions suivantes, vous sentez-vous le plus proche ?
+           Base : A tous (n=1000)
+
+              47%                                                    53%
+
+              Il faut avant  tout préserver  le pouvoir              Il faut avant tout accélérer  la transition
+              d’achat   des ménages,    même    si cela              écologique,  même    si cela entraîne  une  hausse
+
+              implique   de ralentir la transition                   du coût  de certains  produits  et services
+                                                               VS
+              écologique
+
+              66% parmi les 50-64 ans                                57% parmi les moins de 35 ans
+              64% parmi les personnes ayant un niveau inférieur au   59% parmi les cadres supérieurs
+              bac
+                                                                     61% parmi les personnes ayant un niveau égal ou supérieur à la
+              61% parmi les foyers gagnant moins de 1 250 €          licence
+              mensuels
+
+--- page 11 ---
+
+Sur    les   moyens           d’agir,       une     opinion         partagée           entre      incitation
+
+          et  réglementation
+
+           Question : De laquelle des 2 propositions suivantes, vous sentez-vous le plus proche ?
+           Base : A tous (n=1000)
+
+              48%                                                    52%
+
+              Pour  réaliser la transition écologique,   il
+                                                                        Pour  réaliser la transition écologique,   il faut
+              faut  surtout réglementer    pour  encadrer
+                                                                            surtout  informer  et inciter les citoyens à
+              ou  interdire certaines  pratiques
+                                                                                       modifier  leurs comportements
+                                                               VS
+
+--- page 12 ---
+
+Un    impact
+
+                                                                  environnemental                     de    la
+
+                                                                  filière     reconnu           par    les
+
+                                                                  Français          qui    se    montrent
+
+                                                                  disposés           à  agir…
+
+                                                                  …   mais       le  passage           à   l’acte
+
+                                                                  reste      fragile
+
+--- page 13 ---
+
+L’industrie       textile    et  des    chaussures          est   perçue       comme         l’un   des
+
+          secteurs       ayant      le plus    d’impact        sur   l’environnement.              Notamment            le
+
+          renouvellement             trop    fréquent       des    vêtements          et  chaussures
+
+   Question : Selon vous, pour chacun des secteurs d’activité suivants, diriez- Question : D’après vous, quels sont les éléments qui contribuent le plus
+
+   vous que son impact sur l’environnement et le climat est très important, négativement à l’impact environnemental de la filière textile et chaussures ?
+   assez important, assez faible ou très faible ?                   Base : A tous (n=1000)
+   Base : A tous (n=1000)
+                               % Un impact  négatif important
+
+                                     Le transport aérien 84
+
+                                  L’industrie automobile 80
+                                                                                58%
+                    Le secteur des transports, de la logistique 78
+
+                                        Le numérique      76
+
+                                                        76
+            L’industrie  textile  et chaussures                                 Pensent   que  le renouvellement   trop
+                                                                                fréquent  des  vêtements    et des
+                           Le secteur du loisir, du tourisme 66
+                                                                                chaussures    contribue  le plus
+                                                                                négativement     à l’impact
+                                 La production d’énergie 65
+                                                                                environnemental     de  la filière textile
+                                  La grande distribution 63
+                                                                                et chaussures
+                             La construction et le bâtiment 60
+                                         L’agriculture   55
+
+--- page 14 ---
+
+L’habillement              ressort        d’ailleurs         comme           le  deuxième
+
+          domaine           dans       lequel       les   Français          sont      prêts      à  agir     pour
+
+          réduire        leur    impact         sur    l’environnement
+
+           Question : D’une manière générale, dans quels domaines seriez-vous prêt à modifier ou à modifier davantage vos habitudes
+
+           de consommation afin de réduire votre impact sur l'environnement et le climat ? En premier ? En second ?
+           Base : A tous (n=1000)
+
+               1                                                                               5
+                         Votre     consommation              d’énergie                                  Votre
+                                                                              (36%)
+                                                                                                        alimentation
+                                                                                                        (20%)
+                         Vos    achats       et  consommation              de
+               2
+                         vêtements          et  chaussures
+                                                                    (24%)
+                                                                                               6
+                                                                                                        Votre
+                         Vos    achats       et  consommation              de
+               3
+                                                                                                        logement
+                         biens
+                                   (23%)
+                                                                                                        (15%)
+
+               4
+                         Vos    déplacements             au   quotidien
+                                                                               (22%)
+
+--- page 15 ---
+
+D’une       manière          générale,           le  prix    reste      le   principal
+
+          obstacle          à  une     consommation                    responsable
+
+          Question : Selon vous, aujourd'hui, quels sont les principaux freins à des comportements et à une consommation de vêtements
+          et chaussures plus responsables ? En premier, en second ?
+          Base : A tous (n=100) – Total supérieur à 100%
+
+       En premier   En second                                                         Au total
+
+                Le prix des produits plus responsables 23                               42
+                                                                                                 Selon  les profils
+                    Les habitudes de consommation 18                                    33
+
+                           Le prix des réparations 15                                   27
+                                                                                                      47%  des 35-49
+          La difficulté à identifier les produits réellement
+                                               10                                       22            ans et 46% des
+                          responsables et durables
+                                                                                                      CSP+ citent le prix
+         Le manque d’offres accessibles financièrement 8                                21            des produits plus
+                                                                                                      responsables
+                    Le manque d’informations fiables 8                                  13
+                    Le manque de points de collecte 7                                   13            26%  des foyers
+          Le manque de confiance dans les labels et les                                               avec enfants et
+                                               3                                         9
+                          promesses des marques                                                       25% des CSP-
+        Le manque de choix correspondant aux goûts et                                                 citent le manque
+                                               3                                         8
+                    aux besoins des consommateurs                                                     d’offres
+                                                                                                      accessibles
+                 Le manque de temps ou de praticité 2                                    5
+                                                                                                      financièrement
+                              Aucun de ces freins 3                                      3
+
+--- page 16 ---
+
+Les    enjeux         de   la   filière     à
+
+                                                                  horizon         2032
+
+--- page 17 ---
+
+Conserver            et   réparer        : les   deux       gestes        les   plus      efficaces
+
+          aux     yeux      des     Français          pour      réduire        l’impact         du    secteur
+
+           Question : Et d’après vous, quels sont les éléments qui contribuent le plus à réduire l’impact environnemental de la filière textile
+           et chaussures ?
+
+           Base : A tous (n=1000) – Total supérieur à 100% car trois réponses possibles
+
+          Conserver les vêtements et chaussures
+                                                                                  54       Pour  rappel   : des gestes   que
+                               plus longtemps
+                                                                                           les Français   feraient   eux-
+               Faire réparer les vêtements et les
+                                                                          42               mêmes     :
+            chaussures plutôt que les remplacer
+                  Acheter moins d’articles neufs                      36                      44%
+
+       Acheter des articles fabriqués en France ou
+                                                                      35
+                                     en Europe
+                                                                                              envisagent de conserver plus
+         Donner ou revendre les vêtements et les                                              longtemps leurs vêtements et
+                                                                  30
+                                   chaussures                                                 chaussures
+         Acheter des vêtements et chaussures de
+                                                                  29
+                                 seconde main
+                                                                                              30%       / 27%
+            Déposer les vêtements et chaussures
+                                                                 27
+          usagés dans un point de collecte textile
+                                                                                              envisagent de donner à des
+                                                                                              proches ou à une association
+           Aucun de ces gestes / comportements  1
+                                                                                              (30%) / de déposer en point de
+                                                                                              collecte (27%)
+                             Vous ne savez pas    4
+
+--- page 18 ---
+
+Un    passage           à  l’acte      qui    peut      être     fragilisé        par    le   manque
+
+          d’informations               sur     le  devenir         des     produits         collectés
+
+          Question : Selon vous, que deviennent principalement les vêtements ou chaussures déposés dans un point de collecte ?
+          Base : A tous (n=1000) – Total supérieur à 100% car deux réponses possibles
+
+      Ils sont recyclés pour fabriquer d'autres                                 43
+
+                          types de produits                                                 61%
+
+                                                                             39
+          Ils sont exportés vers d'autres pays
+                                                                                            pensent que les textiles
+                                                                                            collectés sont recyclés (en
+           Ils sont recyclés pour fabriquer de                                              nouveaux textiles ou en autres
+                                                                         34
+                  nouveaux produits textiles                                                produits)
+
+      Ils sont revendus ou réutilisés tels quels
+                                                             20
+                                                                                            39%
+
+              Ils sont principalement détruits
+                                                      12
+                                                                                            pensent qu’ils sont exportés vers
+                                                                                            d’autres pays
+
+                         Vous ne savez pas          10
+
+--- page 19 ---
+
+La   durabilité       des    produits      constitue        la  priorité     de   la  filière   pour     les
+
+      Français,       dont     seulement          35%    savent      précisément            que    les  vêtements          et
+
+      chaussures          usagés        constituent         une    matière       qui   peut     avoir    de   la  valeur
+
+           Question : Pour chacun des objectifs suivants visant à limiter l’impact de la filière
+
+           textile et chaussures sur l’environnement, diriez-vous qu’il doit être dans les
+           années à venir… ?
+           Base : A tous (n=1000)
+                  Prolonger    la durée   de vie  des  produits
+
+           1
+                  textiles  et chaussures     (un objectif                                       Des Français savaient que les vêtements
+                                                                                  83%
+                                                                                                 et chaussures usagés constituent une
+                  prioritaire pour  54%)
+                                                                                                 matière qui peut avoir de la valeur
+                  Faire  évoluer   les modes    de  consommation
+                                                                                                                     Le sait
+                  vers  des  achats   de  produits  textiles  plus
+           2
+                                                                                                      17             précisément
+                  sobres   et plus  responsables                                  Ne  le sait pas
+                                                                                                                  35
+                  (un  objectif prioritaire pour  50%)
+                   Faire  des  produits   textiles  et chaussures
+
+           3      usagés   une   véritable  ressource                                                 48
+
+                  (un  objectif prioritaire pour  43%)
+
+                                                                                      Le sait mais  ne sait pas  trop de quoi  il
+                                                                                      s’agit
+
+--- page 20 ---
+
+À  horizon         2032,      les   Français          attendent            avant       tout     des
+
+          vêtements             et  chaussures              conçus         pour       durer      plus
+
+          longtemps
+
+           Question : Selon vous, une filière textile et chaussures plus responsable et durable à l’horizon 2032 doit avant tout veiller à…
+
+           Base : A tous (n=1000)
+
+                                                       Produire des vêtements et chaussures conçus pour durer            50
+                                                                                  plus longtemps
+                                                                                                               32
+                          50%                           Développer une production plus locale ou européenne
+                                                      Développer le recyclage des vêtements et chaussures non 30
+                                                                                    réutilisables
+                                                         Produire des vêtements et chaussures plus facilement 25
+
+                      attendent     avant                                            réparables
+                                                                                                           25
+                    tout  des   vêtements                                 Développer la seconde main
+                        et chaussures                     Mieux valoriser les matières issues des vêtements et 24
+                                                                                chaussures usagés
+                     conçus    pour   durer
+                                                         Développer davantage la réparation des vêtements et 24
+                                                                                     chaussures
+                       plus  longtemps
+                                                    Améliorer la transparence sur les impacts environnementaux 21
+                                                                                    des produits
+                                                      Sensibiliser et former les citoyens au tri des vêtements et 19
+                                                                                     chaussures
+                                                       Simplifier le dépôt des vêtements et chaussures dans des 17
+                                                                                 points de collecte
+                                                                                               3
+                                                                                 Aucun de ceux là
+
+--- page 21 ---
+
+La   transition          écologique             de    la  filière     passe        avant       tout
+
+          par    les    metteurs           en   marché
+
+           Question : Selon vous, parmi les acteurs suivants, quels sont ceux qui doivent agir en priorité pour réduire l'impact
+           environnemental du secteur de la mode ? En premier, en second ?
+
+           Base : A tous (n=1000) – Total supérieur à 100%
+
+                         Les fabricants   / usines  de  production                   41                            66
+
+                     Les  marques    et enseignes    de  vêtements             24                   55
+
+                                             Les pouvoirs publics français 13              25
+
+                                             Les institutions européennes 11             21
+
+      Les organismes qui coordonnent les actions de prévention et de gestion des
+                                                                         5            13
+                                                        déchets textiles
+
+            Les acteurs de la collecte et du tri (opérateurs privés et associations) 4 13
+
+                                                  Les collectivités locales 2  6
+
+--- page 22 ---
+
+Ce    qu’il    faut     retenir       pour      la   filière    textile      et   chaussures
+
+                                          Valoriser      la
+            Faire    durer                                              Rendre      le               Mobiliser
+                                          fin  de   vie  des
+                                                                        responsable                  toute    la  filière
+                                          pièces
+                                                                        accessible
+
+            La durabilité s’impose        La valeur des textiles                                     Les consommateurs
+                                                                        Le prix constitue le
+            comme   une  priorité :       usagés  est déjà                                           attendent une
+                                                                        principal levier
+            54 % souhaitent               largement  reconnue                                        impulsion collective :
+                                                                        d’adoption des
+            prolonger la durée de         par 83 % des                                               66 % comptent  en
+                                                                        produits responsables
+            vie des produits, et 50       consommateurs.                                             priorité sur les
+                                                                        : 53 % souhaitent
+            % attendent que  tous         L’enjeu est désormais                                      fabricants, et 55 % sur
+                                                                        accélérer la transition,
+            les vêtements soient          de mieux  faire                                            les marques et les
+                                                                        tout en préservant le
+            conçus  pour durer            connaître les solutions                                    enseignes.
+                                                                        pouvoir d’achat pour
+            d’ici 2032.                   de collecte et le
+                                                                        47 %.
+                                          devenir des textiles.
+
+--- page 23 ---
+
+NOS     ENGAGEMENTS
+
+      CODES        PROFESSIONNELS,                 CERTIFICATION             QUALITE
+
+      CONSERVATION               ET   PROTECTION            DES     DONNEES
+
+           Ipsos est membre des organismes professionnels français et
+                                                                                  Ipsos France est certifiée ISO 20252 :
+           européens des études de marché et d’opinion suivants :
+                                                                                  Market Research - version 2019
+              SYNTEC (syndicat professionnel des sociétés d’études de             par AFNOR CERTIFICATION
+              marché en france ; www.Syntec-etudes.Com )
+                                                                         Ce document est élaboré dans le respect de ces codes et normes
+              ESOMAR  (European Society for Opinion and Market
+                                                                         internationales.
+              Research, www.Esomar.Org)
+
+         Ipsos France s’engage à appliquer le code ICC/Esomar des études de marché et d’opinion. Ce code définit les règles déontologiques des professionnels
+         des études de marché et établit les mesures de protection dont bénéficient les personnes interrogées.
+                Ipsos s’engage à respecter les lois applicables. Ipsos a désigné un Data Protection Officer et a mis place un plan de conformité au Règlement
+
+                Général sur la Protection des Données (Règlement (UE) 2016/679). Pour plus d’informations sur notre politique en matière de protection des
+                données personnelles : https://www.ipsos.com/fr-fr/confidentialite-et-protection-des-donnees-personnelles
+
+         A ce titre, la durée de conservation des données personnelles des personnes interviewées dans le cadre d’une étude est, à moins d’un engagement
+         contractuel spécifique :
+
+           •  de 12 mois suivant la date de fin d’une étude Ad Hoc .
+
+           •  de 36 mois suivant la date de fin de chaque vague d’une étude récurrente.
+
+                                                                  23
+
+--- page 24 ---
+
+Fiabilité      des    résultats
+
+     Feuille  de calcul
+
+    En l’occurrence s’agissant de cette étude :
+
+    • Intervalle de confiance : 95%
+
+    • Taille d’échantillon : 1000
+
+    Les proportions observées  sont comprises  entre :
+
+                          Borne Supérieure (%)   Proportion observée (%)  Borne Inférieure (%)
+
+                                   1% 2%  5%  10% 15% 20% 25% 30% 35% 40% 45% 50% 55% 60% 65% 70% 75% 80% 85% 90% 95% 98% 99%
+                        Borne Supérieure (%) 1,6% 2,9% 6,4% 11,9% 17,2% 22,5% 27,7% 32,8% 38,0% 43,0% 48,1% 53,1% 58,1% 63,0% 68,0% 72,8% 77,7% 82,5% 87,2% 91,9% 96,4% 98,9% 99,6%
+                        Proportion observée (%) 1% 2% 5% 10% 15% 20% 25% 30% 35% 40% 45% 50% 55% 60% 65% 70% 75% 80% 85% 90% 95% 98% 99%
+                        Borne Inférieure (%) 0,4% 1,1% 3,6% 8,1% 12,8% 17,5% 22,3% 27,2% 32,0% 37,0% 41,9% 46,9% 51,9% 57,0% 62,0% 67,2% 72,3% 77,5% 82,8% 88,1% 93,6% 97,1% 98,4%
+
+                                                                  24
+
+--- page 25 ---
+
+À   PROPOS       D’IPSOS                               GAME      CHANGERS
+
+         Ipsos est l’un des leaders mondiaux des études de marché et des Dans un monde qui évolue rapidement, s’appuyer sur des
+         sondages d’opinion, présent dans 90 marchés et comptant près données fiables pour prendre les bonnes décisions n’a jamais été
+
+         de 20 000 collaborateurs.                              aussi important.
+         Nos chercheurs, analystes et scientifiques sont passionnément
+         curieux et ont développé des capacités multi-spécialistes qui Chez Ipsos, nous sommes convaincus que nos clients cherchent
+         permettent de fournir des informations et des analyses poussées plus qu’un simple fournisseur de données. Ils ont besoin d’un
+         sur les actions, les opinions et les motivations des citoyens, des véritable partenaire qui leur procure des informations précises et
+         consommateurs, des patients, des clients et des employés. pertinentes, et les transforme en connaissances pour leur
+                                                                permettre de passer à l’action.
+         Nos 75 solutions s’appuient sur des données primaires provenant
+         de nos enquêtes, de notre suivi des réseaux sociaux et de Voilà pourquoi nos experts, curieux et passionnés, délivrent les
+
+         techniques qualitatives ou observationnelles.          mesures les plus exactes pour en extraire l’information qui
+                                                                permettra d’avoir une vraie compréhension de la Société, des
+         Notre signature « Game Changers » résume bien notre ambition Marchés et des Individus.
+         d’aider nos 5 000 clients à évoluer avec confiance dans un monde
+         en rapide évolution.                                   Nous mêlons notre savoir-faire au meilleur des sciences et de la
+                                                                technologie, et appliquons nos quatre principes de sécurité,
+         Créé en France en 1975, Ipsos est coté à l’Euronext Paris depuis le simplicité, rapidité et de substance à tout ce que nous
+         1er juillet 1999. L’entreprise fait partie des indices SBF 120 et Mid- produisons.
+         60 et est éligible au service de règlement différé (SRD). Pour permettre à nos clients d’agir avec plus de rapidité,
+                                                                d’ingéniosité et d’audace.
+
+         ISIN code FR0000073298, Reuters ISOS.PA, Bloomberg IPS:FP
+         www.ipsos.com                                          La clef du succès se résume par une vérité simple :
+                                                                You act better when you are sure.
+
+                                                                  25
